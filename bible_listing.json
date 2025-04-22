@@ -1,0 +1,2669 @@
+[
+ {
+  "filename": "Holy-Bible---French---French-LXX---Standard-Edition.json",
+  "bible_name": "Traduction de la LXX par P. GIGUET",
+  "language": "Français",
+  "language_en": "French",
+  "size": 3569658
+ },
+ {
+  "filename": "Holy-Bible---Sanskrit---Bengali-Script---Standard-Edition.json",
+  "bible_name": "বাংলা",
+  "language": "বাংলা",
+  "language_en": "Sanskrit",
+  "size": 2413969
+ },
+ {
+  "filename": "Holy-Bible---Bulgarian---Bulgarian-Bible---Standard-Edition.json",
+  "bible_name": "Българска Библия",
+  "language": "Българска",
+  "language_en": "Bulgarian",
+  "size": 6812582
+ },
+ {
+  "filename": "Holy-Bible---Greek---Greek-Byzantine-Majority---Standard-Edition.json",
+  "bible_name": "H Καινή Διαθήκη",
+  "language": "Ελληνική",
+  "language_en": "Greek, Byzantine",
+  "size": 1621957
+ },
+ {
+  "filename": "Holy-Bible---Tagalog---Tagalog-Bible-Unlocked---Standard-Edition.json",
+  "bible_name": "banal na Bibliya",
+  "language": "Tagalog",
+  "language_en": "Tagalog",
+  "size": 5334183
+ },
+ {
+  "filename": "Holy-Bible---Romani-Vlax---Servi-Bible---Standard-Edition.json",
+  "bible_name": "Библия пы сэрвицко ромско чиб",
+  "language": "Servi Romani",
+  "language_en": "Romani Vlax, Servi",
+  "size": 500767
+ },
+ {
+  "filename": "Holy-Bible---Chin-Thaiphum---Thai-Phum-Bible---Standard-Edition.json",
+  "bible_name": "Thai Phum Holy Bible",
+  "language": "Thai Phum",
+  "language_en": "Chin, Thaiphum",
+  "size": 4612404
+ },
+ {
+  "filename": "Holy-Bible---Kannada---Open-Contemporary---Standard-Edition.json",
+  "bible_name": "ಉಚಿತ ಕನ್ನಡ ಸಮಕಾಲಿಕ ಭಾಷಾಂತರ",
+  "language": "ಕನ್ನಡ",
+  "language_en": "Kannada",
+  "size": 11003721
+ },
+ {
+  "filename": "Holy-Bible---Malayalam---Contemporary---Standard-Edition.json",
+  "bible_name": "സമകാലിക മലയാളവിവർത്തനം",
+  "language": "മലയാളം",
+  "language_en": "Malayalam",
+  "size": 12461712
+ },
+ {
+  "filename": "Holy-Bible---Rote-Dela---Rote-Dela-Bible---Standard-Edition.json",
+  "bible_name": "Rote Dela Alkitab",
+  "language": "Dela–Oenale",
+  "language_en": "Rote Dela",
+  "size": 1880701
+ },
+ {
+  "filename": "Holy-Bible---Beaver---Beaver-Mark---Standard-Edition.json",
+  "bible_name": "Ootech Oochu Takehniya Tinkles St. Mark",
+  "language": "Dane Zaa",
+  "language_en": "Beaver",
+  "size": 92375
+ },
+ {
+  "filename": "Holy-Bible---Norwegian---Living-Bible---Standard-Edition.json",
+  "bible_name": "Open En Levende Bok",
+  "language": "Norsk Bokmål",
+  "language_en": "Norwegian Bokmal",
+  "size": 1228899
+ },
+ {
+  "filename": "Holy-Bible---English---Noyes---Standard-Edition.json",
+  "bible_name": "Noyes Bible",
+  "language": "English",
+  "language_en": "English",
+  "size": 2453705
+ },
+ {
+  "filename": "Holy-Bible---Cebuano---Cebuano-Philippine---Standard-Edition.json",
+  "bible_name": "Cebuano Ang Biblia, Pinadayag",
+  "language": "Cebuano",
+  "language_en": "Cebuano",
+  "size": 5449750
+ },
+ {
+  "filename": "Holy-Bible---Sanskrit---Thai-Script---Standard-Edition.json",
+  "bible_name": "วิกิพีเดียภาษาไทย",
+  "language": "วิกิพีเดียภาษาไทย",
+  "language_en": "Sanskrit",
+  "size": 2456975
+ },
+ {
+  "filename": "Holy-Bible---Finnish---Finnish-Bible---Standard-Edition.json",
+  "bible_name": "Finnish Bible 1776",
+  "language": "Suomen Kieli",
+  "language_en": "Finnish",
+  "size": 4656864
+ },
+ {
+  "filename": "Holy-Bible---Armenian---Armenian-Bible-Western---Standard-Edition.json",
+  "bible_name": "Արեւմտահայերեն Աստվածաշունչ",
+  "language": "Արեւմտահայերեն",
+  "language_en": "Armenian, Western",
+  "size": 1650629
+ },
+ {
+  "filename": "Holy-Bible---English---American-Standard-Version-1901---Standard-Edition.json",
+  "bible_name": "American Standard Version 1901",
+  "language": "English",
+  "language_en": "English",
+  "size": 4542773
+ },
+ {
+  "filename": "Holy-Bible---English---New-Heart-Aramaic---Standard-Edition.json",
+  "bible_name": "New Heart English Bible, Aramaic",
+  "language": "English",
+  "language_en": "English",
+  "size": 4448382
+ },
+ {
+  "filename": "Holy-Bible---Pohnpeian---Pohnpeian-NT-Psalms-New-Alphabet---Standard-Edition.json",
+  "bible_name": "Kadede Kap Psam Akan",
+  "language": "Pohnpeian",
+  "language_en": "Pohnpeian",
+  "size": 1182050
+ },
+ {
+  "filename": "Holy-Bible---Portuguese---Free-for-All---Standard-Edition.json",
+  "bible_name": "Biblia Livre Para Todos",
+  "language": "Língua Portuguesa",
+  "language_en": "Portuguese",
+  "size": 1178564
+ },
+ {
+  "filename": "Holy-Bible---Uyghur---Uyghur-Bible-Pinyin---Standard-Edition.json",
+  "bible_name": "Muⱪeddes Kalam (yǝngi yeziⱪ)",
+  "language": "Uyghur tili",
+  "language_en": "Uyghur",
+  "size": 5486567
+ },
+ {
+  "filename": "Holy-Bible---Yoruba---Yoruba-Bible---Standard-Edition.json",
+  "bible_name": "Bíbélì Mímọ́ ní Èdè Yorùbá Òde-Òní",
+  "language": "Yorùbá",
+  "language_en": "Yoruba",
+  "size": 5702427
+ },
+ {
+  "filename": "Holy-Bible---Telugu---Telugu-Bible---Standard-Edition.json",
+  "bible_name": "తెలుగు బైబిల్",
+  "language": "తెలుగు",
+  "language_en": "Telugu",
+  "size": 10578795
+ },
+ {
+  "filename": "Holy-Bible---Gujarati---Gujarati-Bible---Standard-Edition.json",
+  "bible_name": "ગુજરાતી બાઇબલ",
+  "language": "ગુજરાતી",
+  "language_en": "Gujarati",
+  "size": 9989563
+ },
+ {
+  "filename": "Holy-Bible---German---German-Elberfelder-1905---Standard-Edition.json",
+  "bible_name": "Deutsche Bibel, Elberfelder",
+  "language": "Deutsch",
+  "language_en": "German",
+  "size": 4714110
+ },
+ {
+  "filename": "Holy-Bible---Sanskrit---Kannada-Script---Standard-Edition.json",
+  "bible_name": "ಕನ್ನಡ",
+  "language": "ಕನ್ನಡ",
+  "language_en": "Sanskrit",
+  "size": 2437771
+ },
+ {
+  "filename": "Holy-Bible---Hebrew---Hebrew-Aleppo-Codex---Standard-Edition.json",
+  "bible_name": "כתבי הקודש",
+  "language": "עברית",
+  "language_en": "Hebrew",
+  "size": 3006054
+ },
+ {
+  "filename": "Holy-Bible---Chin-Siyin---Siyin-Chin-Bible---Standard-Edition.json",
+  "bible_name": "Tinaung Takluem",
+  "language": "Siyin Chin",
+  "language_en": "Chin, Siyin",
+  "size": 1125141
+ },
+ {
+  "filename": "Holy-Bible---Kannada---Kannada-Bible---Standard-Edition.json",
+  "bible_name": "ಕನ್ನಡ ಬೈಬಲ್",
+  "language": "ಕನ್ನಡ",
+  "language_en": "Kannada",
+  "size": 10878664
+ },
+ {
+  "filename": "Holy-Bible---Greek---Greek-STEPBible---Standard-Edition.json",
+  "bible_name": "H Καινή Διαθήκη",
+  "language": "Ελληνική",
+  "language_en": "Greek, Koine",
+  "size": 1907132
+ },
+ {
+  "filename": "Holy-Bible---Tamil---Open-Contemporary---Standard-Edition.json",
+  "bible_name": "திறந்தநிலை தமிழ் சமகால",
+  "language": "தமிழ்",
+  "language_en": "Tamil",
+  "size": 13701330
+ },
+ {
+  "filename": "Holy-Bible---Polish---Open-Access-Word-of-Life---Standard-Edition.json",
+  "bible_name": "Słowo Życia, Otwarty Dostęp",
+  "language": "Polskie",
+  "language_en": "Polish",
+  "size": 1091244
+ },
+ {
+  "filename": "Holy-Bible---Arabic---Arabic-Van-Dyck-Bible---Standard-Edition.json",
+  "bible_name": "الكتاب المقدس باللغة العربية، فان دايك",
+  "language": "العربية",
+  "language_en": "Arabic",
+  "size": 7833984
+ },
+ {
+  "filename": "Holy-Bible---French---Free-for-the-World---Standard-Edition.json",
+  "bible_name": "Sainte Bible Libre Pour le Monde",
+  "language": "Français",
+  "language_en": "French",
+  "size": 4623326
+ },
+ {
+  "filename": "Holy-Bible---Pogolo---Pogoro-Bible---Standard-Edition.json",
+  "bible_name": "Lipatanu Lya Syayi, Wantu Woseri",
+  "language": "Pogolo",
+  "language_en": "Pogolo",
+  "size": 1197623
+ },
+ {
+  "filename": "Holy-Bible---Chinese---Chinese-Sigao-Bible---Standard-Edition.json",
+  "bible_name": "思高本 聖經：思高聖經學會譯釋",
+  "language": "漢語",
+  "language_en": "Chinese",
+  "size": 3772657
+ },
+ {
+  "filename": "Holy-Bible---Sanskrit---ISO-Script---Standard-Edition.json",
+  "bible_name": "Sanskrit New Testament, ISO",
+  "language": "ISO",
+  "language_en": "Sanskrit",
+  "size": 1268630
+ },
+ {
+  "filename": "Holy-Bible---Ilocano---Ilocano-Bible---Standard-Edition.json",
+  "bible_name": "Ti Biblia",
+  "language": "Ilocano",
+  "language_en": "Ilocano",
+  "size": 5196488
+ },
+ {
+  "filename": "Holy-Bible---Kuvi---Kuvi-Bible---Standard-Edition.json",
+  "bible_name": "ପୁଃନି ମେ଼ରା",
+  "language": "କୁଭି, କୁୱି",
+  "language_en": "Kuvi",
+  "size": 2980576
+ },
+ {
+  "filename": "Holy-Bible---French---French-Crampon-Bible-New---Standard-Edition.json",
+  "bible_name": "Sainte Bible néo-Crampon Libre",
+  "language": "Français",
+  "language_en": "French",
+  "size": 4728828
+ },
+ {
+  "filename": "Holy-Bible---Swedish---Swedish-Bible-1917---Standard-Edition.json",
+  "bible_name": "Svensk Bibel",
+  "language": "Svensk",
+  "language_en": "Swedish",
+  "size": 4657926
+ },
+ {
+  "filename": "Holy-Bible---Kurdish---Sorani-Bible---Standard-Edition.json",
+  "bible_name": "وەشانی بێبەرامبەری کوردیی سۆرانیی ستاندەر",
+  "language": "كوردی سۆرانی",
+  "language_en": "Kurdish, Central",
+  "size": 6677953
+ },
+ {
+  "filename": "Holy-Bible---Malayalam---1910-Contemporary---Standard-Edition.json",
+  "bible_name": "മലയാളം ബൈബിള്‍ 1910 Modern",
+  "language": "മലയാളം",
+  "language_en": "Malayalam",
+  "size": 11318315
+ },
+ {
+  "filename": "Holy-Bible---Vietnamese---Vietnamese-Bible-1934---Standard-Edition.json",
+  "bible_name": "Kinh Thánh Tiếng Việt 1934",
+  "language": "tiếng Việt",
+  "language_en": "Vietnamese",
+  "size": 5487682
+ },
+ {
+  "filename": "Holy-Bible---Hungarian---Magyar-Bible---Standard-Edition.json",
+  "bible_name": "Nyitott Újszövetség",
+  "language": "Magyar Nyelv",
+  "language_en": "Hungarian",
+  "size": 1081100
+ },
+ {
+  "filename": "Holy-Bible---Chin-Matu---Matupi-Chin-2019---Standard-Edition.json",
+  "bible_name": "Baibal Olcim",
+  "language": "Matupi Chin",
+  "language_en": "Chin, Matu",
+  "size": 4440462
+ },
+ {
+  "filename": "Holy-Bible---English---King-James-Version---Standard-Edition.json",
+  "bible_name": "King James Version",
+  "language": "English",
+  "language_en": "English",
+  "size": 4574117
+ },
+ {
+  "filename": "Holy-Bible---Sanskrit---Burmese-Script---Standard-Edition.json",
+  "bible_name": "မြန်မာဘာသာ",
+  "language": "မြန်မာဘာသာ",
+  "language_en": "Sanskrit",
+  "size": 2364313
+ },
+ {
+  "filename": "Holy-Bible---Icelandic---Open-Living-Word---Standard-Edition.json",
+  "bible_name": "Opna Lifandi Orð",
+  "language": "Íslenska",
+  "language_en": "Icelandic",
+  "size": 1492098
+ },
+ {
+  "filename": "Holy-Bible---Azerbaijani---Azerbaijani-Bible---Standard-Edition.json",
+  "bible_name": "Azərbaycan dilində Müqəddəs Kitab",
+  "language": "Azeri",
+  "language_en": "Azerbaijani, South",
+  "size": 4512068
+ },
+ {
+  "filename": "Holy-Bible---French---French-Khan-Bible---Standard-Edition.json",
+  "bible_name": "La Bible de Zadoc Khan",
+  "language": "Français",
+  "language_en": "French",
+  "size": 3632470
+ },
+ {
+  "filename": "Holy-Bible---English---Jewish-Bible---Standard-Edition.json",
+  "bible_name": "Jewish Bible in English",
+  "language": "English",
+  "language_en": "English",
+  "size": 3497737
+ },
+ {
+  "filename": "Holy-Bible---Indonesian---Bahasa-Indonesia-Sehari-hari---Standard-Edition.json",
+  "bible_name": "Bahasa Indonesia Sehari-hari",
+  "language": "Bahasa Indonesia",
+  "language_en": "Indonesian",
+  "size": 4814088
+ },
+ {
+  "filename": "Holy-Bible---Swahili---Swahili-Bible---Standard-Edition.json",
+  "bible_name": "Biblia Takatifu",
+  "language": "Kiswahili",
+  "language_en": "Swahili",
+  "size": 1044725
+ },
+ {
+  "filename": "Holy-Bible---French---French-Louis-Segond-1910-Bible---Standard-Edition.json",
+  "bible_name": "Louis Segond French Bible 1910",
+  "language": "Français",
+  "language_en": "French",
+  "size": 4696266
+ },
+ {
+  "filename": "Holy-Bible---Latvian---Latvian-Gluck-Bible---Standard-Edition.json",
+  "bible_name": "Latviešu Glück Bībele",
+  "language": "Latviešu",
+  "language_en": "Latvian",
+  "size": 4347606
+ },
+ {
+  "filename": "Holy-Bible---English---Text-Critical---Standard-Edition.json",
+  "bible_name": "Boyd Text-Critical English NT",
+  "language": "English",
+  "language_en": "English",
+  "size": 1060883
+ },
+ {
+  "filename": "Holy-Bible---Gamotso---Gamo---Standard-Edition.json",
+  "bible_name": "Gamo Geesha Maxxafa",
+  "language": "Gamotso",
+  "language_en": "Gamotso",
+  "size": 1027693
+ },
+ {
+  "filename": "Holy-Bible---Indonesian---Simple---Standard-Edition.json",
+  "bible_name": "Alkitab Sederhana Indonesia",
+  "language": "Bahasa Indonesia",
+  "language_en": "Indonesian",
+  "size": 3044556
+ },
+ {
+  "filename": "Holy-Bible---Spanish---Free-Bible---Standard-Edition.json",
+  "bible_name": "Biblia Libre",
+  "language": "Español",
+  "language_en": "Spanish",
+  "size": 4578053
+ },
+ {
+  "filename": "Holy-Bible---Bu---Bu-Bible---Standard-Edition.json",
+  "bible_name": "Bu Bible",
+  "language": "Jida",
+  "language_en": "Bu",
+  "size": 893812
+ },
+ {
+  "filename": "Holy-Bible---Myanmar---Burmese-Common-Bible---Standard-Edition.json",
+  "bible_name": "ခေတ်သုံးမြန်မာသမ္မာကျမ်း",
+  "language": "မြန်မာဘာသာ",
+  "language_en": "Myanmar Burmese",
+  "size": 17231112
+ },
+ {
+  "filename": "Holy-Bible---Mahasu-Pahari---Baghlayani-Bible---Standard-Edition.json",
+  "bible_name": "बघल्याणी नवां विधान",
+  "language": "बघल्याणी",
+  "language_en": "Mahasu Pahari",
+  "size": 2556965
+ },
+ {
+  "filename": "Holy-Bible---English---Geneva-Bible---Standard-Edition.json",
+  "bible_name": "Geneva Bible",
+  "language": "English",
+  "language_en": "English",
+  "size": 4568084
+ },
+ {
+  "filename": "Holy-Bible---Tamil---Tamil-Bible---Standard-Edition.json",
+  "bible_name": "தமிழ் பைபிள்",
+  "language": "தமிழ்",
+  "language_en": "Tamil",
+  "size": 12897571
+ },
+ {
+  "filename": "Holy-Bible---Chiyawo---Yao---Standard-Edition.json",
+  "bible_name": "Lilangano lya Sambano",
+  "language": "Ciyawo",
+  "language_en": "Ciyawo",
+  "size": 1281342
+ },
+ {
+  "filename": "Holy-Bible---English---King-James-Version-Updated---Standard-Edition.json",
+  "bible_name": "King James Version, Updated",
+  "language": "English",
+  "language_en": "English",
+  "size": 4544444
+ },
+ {
+  "filename": "Holy-Bible---Greek---Greek-Modern-Kathareuousa---Standard-Edition.json",
+  "bible_name": "H Καινή Διαθήκη, Καθαρεύουσα",
+  "language": "Ελληνική",
+  "language_en": "Greek, Kathareuousa",
+  "size": 7961716
+ },
+ {
+  "filename": "Holy-Bible---Romani---Eastern-Vlakh---Standard-Edition.json",
+  "bible_name": "Библия пэ влахицко романи шыб",
+  "language": "Eastern Romani",
+  "language_en": "Romani Vlax, Eastern",
+  "size": 495590
+ },
+ {
+  "filename": "Holy-Bible---Greek---Greek-Majority-Text---Standard-Edition.json",
+  "bible_name": "H Καινή Διαθήκη",
+  "language": "Ελληνική",
+  "language_en": "Greek, Koine",
+  "size": 1620615
+ },
+ {
+  "filename": "Holy-Bible---Arabic---New-Arabic-Bible---Standard-Edition.json",
+  "bible_name": "كتاب الحياة",
+  "language": "العربية",
+  "language_en": "Arabic",
+  "size": 8378870
+ },
+ {
+  "filename": "Holy-Bible---English---Webster-Bible---Standard-Edition.json",
+  "bible_name": "Webster Bible",
+  "language": "English",
+  "language_en": "English",
+  "size": 4537918
+ },
+ {
+  "filename": "Holy-Bible---Chin-Matu---Matupi-Chin-Bible---Standard-Edition.json",
+  "bible_name": "Baibal Olcim",
+  "language": "Matupi Chin",
+  "language_en": "Chin, Matu",
+  "size": 4438830
+ },
+ {
+  "filename": "Holy-Bible---French---French-Synodale-Bible---Standard-Edition.json",
+  "bible_name": "Nouveau Testament et Psaumes, Synodale",
+  "language": "Français",
+  "language_en": "French",
+  "size": 1420896
+ },
+ {
+  "filename": "Holy-Bible---Assamese---Assamese-Bible---Standard-Edition.json",
+  "bible_name": "অসমীয়া বাইবেল",
+  "language": "অসমীয়া",
+  "language_en": "Assamese, Standard",
+  "size": 10814346
+ },
+ {
+  "filename": "Holy-Bible---Sanskrit---ITRANS-Script---Standard-Edition.json",
+  "bible_name": "Sanskrit New Testament, ITRANS",
+  "language": "ITRANS",
+  "language_en": "Sanskrit",
+  "size": 1079358
+ },
+ {
+  "filename": "Holy-Bible---Danish---Danish-1871-1907---Standard-Edition.json",
+  "bible_name": "Dansk Bibel",
+  "language": "Dansk",
+  "language_en": "Danish",
+  "size": 4276494
+ },
+ {
+  "filename": "Holy-Bible---English---Syriac-Peshitta-Etheridge---Standard-Edition.json",
+  "bible_name": "Syriac Peshitta Etheridge",
+  "language": "English",
+  "language_en": "English",
+  "size": 1065021
+ },
+ {
+  "filename": "Holy-Bible---Hebrew---Hebrew-Masoretic-OT---Standard-Edition.json",
+  "bible_name": "כתבי הקודש",
+  "language": "עברית",
+  "language_en": "Hebrew",
+  "size": 5702078
+ },
+ {
+  "filename": "Holy-Bible---Dholuo---Dholuo-Bible---Standard-Edition.json",
+  "bible_name": "Moting’o Loko Manyien",
+  "language": "Dholuo",
+  "language_en": "Dholuo",
+  "size": 4160580
+ },
+ {
+  "filename": "Holy-Bible---Coptic---Coptic-NT---Standard-Edition.json",
+  "bible_name": "ⲧⲙⲛ̄ⲧⲣⲙ̄ⲛ̄ⲕⲏⲙⲉ",
+  "language": "ⲧⲙⲛ̄ⲧⲣⲙ̄ⲛ̄ⲕⲏⲙⲉ",
+  "language_en": "Coptic",
+  "size": 2322188
+ },
+ {
+  "filename": "Holy-Bible---English---Literal-Standard---Standard-Edition.json",
+  "bible_name": "Literal Standard Version",
+  "language": "English",
+  "language_en": "English",
+  "size": 4496533
+ },
+ {
+  "filename": "Holy-Bible---Indonesian---For-All---Standard-Edition.json",
+  "bible_name": "Alkitab Gratis untuk Semua",
+  "language": "Bahasa Indonesia",
+  "language_en": "Indonesian",
+  "size": 1308932
+ },
+ {
+  "filename": "Holy-Bible---Japanese---New-Japanese-New-Testament---Standard-Edition.json",
+  "bible_name": "新改訳新約聖書",
+  "language": "日本語",
+  "language_en": "Japanese",
+  "size": 1481406
+ },
+ {
+  "filename": "Holy-Bible---Chin-Thado---Chongthu-Bible---Standard-Edition.json",
+  "bible_name": "Pathen Lekhabu Theng",
+  "language": "Chongthu",
+  "language_en": "Chin, Thado",
+  "size": 4997339
+ },
+ {
+  "filename": "Holy-Bible---Haryanvi---Haryanvi-Bible---Standard-Edition.json",
+  "bible_name": "हरियाणवी बाइबिल",
+  "language": "हरियाणवी‎",
+  "language_en": "Haryanvi",
+  "size": 2702122
+ },
+ {
+  "filename": "Holy-Bible---Malagasy---Malagasy-Bible---Standard-Edition.json",
+  "bible_name": "Soratra Masina",
+  "language": "Malagasy",
+  "language_en": "Malagasy",
+  "size": 4960640
+ },
+ {
+  "filename": "Holy-Bible---Somali---Somali-Bible---Standard-Edition.json",
+  "bible_name": "Kitaabka Quduuska Ah",
+  "language": "Somali",
+  "language_en": "Somali",
+  "size": 4959044
+ },
+ {
+  "filename": "Holy-Bible---Romanian---Cyrillic---Standard-Edition.json",
+  "bible_name": "Библия Думитру Корнилеску 1924",
+  "language": "Română",
+  "language_en": "Romanian",
+  "size": 7255678
+ },
+ {
+  "filename": "Holy-Bible---Basque---Basque-NT---Standard-Edition.json",
+  "bible_name": "Euskal Biblia",
+  "language": "Euskara",
+  "language_en": "Basque",
+  "size": 1116745
+ },
+ {
+  "filename": "Holy-Bible---English---Youngs-Literal-Translation---Standard-Edition.json",
+  "bible_name": "Young's Literal Translation",
+  "language": "English",
+  "language_en": "English",
+  "size": 4556805
+ },
+ {
+  "filename": "Holy-Bible---Oriya---Oriya-Bible---Standard-Edition.json",
+  "bible_name": "ଓଡିଆ ବାଇବେଲ",
+  "language": "ଓଡ଼ିଆ",
+  "language_en": "Oriya",
+  "size": 11101267
+ },
+ {
+  "filename": "Holy-Bible---Sanskrit---Devanagari-Script---Standard-Edition.json",
+  "bible_name": "देवनागरी",
+  "language": "देवनागरी",
+  "language_en": "Sanskrit",
+  "size": 2452349
+ },
+ {
+  "filename": "Holy-Bible---Sanskrit---Tamil-Script---Standard-Edition.json",
+  "bible_name": "தமிழ்",
+  "language": "தமிழ்",
+  "language_en": "Sanskrit",
+  "size": 2764834
+ },
+ {
+  "filename": "Holy-Bible---Kisi---Kisi-Bible---Standard-Edition.json",
+  "bible_name": "Kese Bible",
+  "language": "Kese",
+  "language_en": "Kisi",
+  "size": 1156469
+ },
+ {
+  "filename": "Holy-Bible---Danish---Danish-1931-1907---Standard-Edition.json",
+  "bible_name": "Dansk Bibel",
+  "language": "Dansk",
+  "language_en": "Danish",
+  "size": 4047767
+ },
+ {
+  "filename": "Holy-Bible---Romanian---Free-Bible---Standard-Edition.json",
+  "bible_name": "Liber Sfanta Biblie",
+  "language": "Română",
+  "language_en": "Romanian",
+  "size": 1090992
+ },
+ {
+  "filename": "Holy-Bible---Sanskrit---Assamese-Script---Standard-Edition.json",
+  "bible_name": "অসমীয়া",
+  "language": "অসমীয়া",
+  "language_en": "Sanskrit",
+  "size": 2413983
+ },
+ {
+  "filename": "Holy-Bible---Vietnamese---Contemporary---Standard-Edition.json",
+  "bible_name": "Kinh Thánh Tiếng Việt Hiện Đại",
+  "language": "tiếng Việt",
+  "language_en": "Vietnamese",
+  "size": 5161889
+ },
+ {
+  "filename": "Holy-Bible---English---King-James-Version-Cambridge---Standard-Edition.json",
+  "bible_name": "King James Version, Cambridge",
+  "language": "English",
+  "language_en": "English",
+  "size": 4526569
+ },
+ {
+  "filename": "Holy-Bible---Greek---Greek-Antoniades---Standard-Edition.json",
+  "bible_name": "H Καινή Διαθήκη",
+  "language": "Ελληνική",
+  "language_en": "Greek, Koine",
+  "size": 1625271
+ },
+ {
+  "filename": "Holy-Bible---Beami---Bedamuni-Bible---Standard-Edition.json",
+  "bible_name": "Gode Ea Sia: Ida:Iwane Gala",
+  "language": "Bedamuni",
+  "language_en": "Beami",
+  "size": 5419360
+ },
+ {
+  "filename": "Holy-Bible---Serbian---Karadzic-Danicic-Latin-Script---Standard-Edition.json",
+  "bible_name": "Sveta Pismo",
+  "language": "Srpski",
+  "language_en": "Serbian",
+  "size": 3738486
+ },
+ {
+  "filename": "Holy-Bible---Persian---Open-Contemporary---Standard-Edition.json",
+  "bible_name": "فارسی",
+  "language": "فارسی",
+  "language_en": "Persian",
+  "size": 6552450
+ },
+ {
+  "filename": "Holy-Bible---Bhadrawahi---Bhadrawahi-Bible---Standard-Edition.json",
+  "bible_name": "भड्लाई बाइबिल",
+  "language": "भद्रवाही‎",
+  "language_en": "Bhadrawahi",
+  "size": 2764259
+ },
+ {
+  "filename": "Holy-Bible---Calo---Calo-Bible---Standard-Edition.json",
+  "bible_name": "Evangelio Español Romaní de Lucas",
+  "language": "Romaní",
+  "language_en": "Calo",
+  "size": 155491
+ },
+ {
+  "filename": "Holy-Bible---Tsakhur---Tsakhur-Bible---Standard-Edition.json",
+  "bible_name": "Ts‘əxna miz",
+  "language": "Ts‘əxna miz",
+  "language_en": "Tsakhur",
+  "size": 863711
+ },
+ {
+  "filename": "Holy-Bible---Igbo---Igbo-Bible---Standard-Edition.json",
+  "bible_name": "Baịbụlụ Nsọ n’Igbo Ndị Ugbu",
+  "language": "Igbo",
+  "language_en": "Igbo",
+  "size": 5424474
+ },
+ {
+  "filename": "Holy-Bible---English---Revised-Version---Standard-Edition.json",
+  "bible_name": "Revised Version 1895",
+  "language": "English",
+  "language_en": "English",
+  "size": 4546355
+ },
+ {
+  "filename": "Holy-Bible---Swedish---Swedish-Bible-1873---Standard-Edition.json",
+  "bible_name": "Svensk Bibel",
+  "language": "Svensk",
+  "language_en": "Swedish",
+  "size": 4331066
+ },
+ {
+  "filename": "Holy-Bible---English---Syriac-Peshitta-Murdock---Standard-Edition.json",
+  "bible_name": "Syriac Peshitta Murdock",
+  "language": "English",
+  "language_en": "English",
+  "size": 1063324
+ },
+ {
+  "filename": "Holy-Bible---Dutch---Schrift---Standard-Edition.json",
+  "bible_name": "De Heilige Schrift 1917",
+  "language": "Nederlandse",
+  "language_en": "Dutch",
+  "size": 4705144
+ },
+ {
+  "filename": "Holy-Bible---Latin---Clementine-Vulgate-Hetzenauer---Standard-Edition.json",
+  "bible_name": "Bibbia Vulgata Clementina",
+  "language": "Latine",
+  "language_en": "Latin",
+  "size": 3918841
+ },
+ {
+  "filename": "Holy-Bible---French---French-Oltramare-Bible---Standard-Edition.json",
+  "bible_name": "Nouveau Testament, Oltramare",
+  "language": "Français",
+  "language_en": "French",
+  "size": 1143368
+ },
+ {
+  "filename": "Holy-Bible---Persian---Old-Persion-Version-Bible---Standard-Edition.json",
+  "bible_name": "ترجمه قدیم",
+  "language": "فارسی",
+  "language_en": "Persian",
+  "size": 6074289
+ },
+ {
+  "filename": "Holy-Bible---Gofa---Gofa-Bible---Standard-Edition.json",
+  "bible_name": "Gofa New Testament",
+  "language": "Goofa",
+  "language_en": "Gofa",
+  "size": 1033178
+ },
+ {
+  "filename": "Holy-Bible---English---Rotherham-Bible---Standard-Edition.json",
+  "bible_name": "Rotherham Emphasized Bible",
+  "language": "English",
+  "language_en": "English",
+  "size": 4801470
+ },
+ {
+  "filename": "Holy-Bible---Bhattiyali---Bhattiyali-Bible---Standard-Edition.json",
+  "bible_name": "भटियाली नोआ नियम",
+  "language": "भटियाली‎",
+  "language_en": "Bhattiyali",
+  "size": 2960309
+ },
+ {
+  "filename": "Holy-Bible---Ukrainian---New-Translation---Standard-Edition.json",
+  "bible_name": "Новий Переклад Українською",
+  "language": "Український",
+  "language_en": "Ukrainian",
+  "size": 1925425
+ },
+ {
+  "filename": "Holy-Bible---Estonian---Contemporary---Standard-Edition.json",
+  "bible_name": "Pühakiri Kaasaegses Eesti Keeles",
+  "language": "Eesti",
+  "language_en": "Estonian",
+  "size": 1000071
+ },
+ {
+  "filename": "Holy-Bible---Chin-Eastern-Khumi---Asang-Khongca-Bible---Standard-Edition.json",
+  "bible_name": "Asang Khongca Bible",
+  "language": "Asaang Khongca",
+  "language_en": "Chin, Eastern Khumi",
+  "size": 4926434
+ },
+ {
+  "filename": "Holy-Bible---Greek---Greek-Textus-Receptus-Boyd---Standard-Edition.json",
+  "bible_name": "Η Καινή Διαθήκη",
+  "language": "Ελληνική",
+  "language_en": "Greek, Koine",
+  "size": 1787947
+ },
+ {
+  "filename": "Holy-Bible---German---German-Reinhardt-Bible---Standard-Edition.json",
+  "bible_name": "Die Evangelien, Reinhardt",
+  "language": "Deutsch",
+  "language_en": "German",
+  "size": 505495
+ },
+ {
+  "filename": "Holy-Bible---English---Leeser-Tanakh---Standard-Edition.json",
+  "bible_name": "Leeser Tanakh Old Testament",
+  "language": "English",
+  "language_en": "English",
+  "size": 3620119
+ },
+ {
+  "filename": "Holy-Bible---Lithuanian---Believers-Heritage---Standard-Edition.json",
+  "bible_name": "Tikinčiųjų Paveldo Vertimas",
+  "language": "Lietuvių",
+  "language_en": "Lithuanian",
+  "size": 331556
+ },
+ {
+  "filename": "Holy-Bible---Chinese---Chinese-Union-Version-Traditional---Standard-Edition.json",
+  "bible_name": "新標點和合本",
+  "language": "漢語",
+  "language_en": "Chinese",
+  "size": 3604258
+ },
+ {
+  "filename": "Holy-Bible---Greek---Greek-Tischendorf---Standard-Edition.json",
+  "bible_name": "H Καινή Διαθήκη",
+  "language": "Ελληνική",
+  "language_en": "Greek, Koine",
+  "size": 1753589
+ },
+ {
+  "filename": "Holy-Bible---Hebrew---Hebrew-Westminster-Leningrad---Standard-Edition.json",
+  "bible_name": "כתבי הקודש",
+  "language": "עברית",
+  "language_en": "Hebrew",
+  "size": 5660479
+ },
+ {
+  "filename": "Holy-Bible---Lingala---Lingala-Bible---Standard-Edition.json",
+  "bible_name": "Mokanda na Bomoi",
+  "language": "Lingála",
+  "language_en": "Lingala",
+  "size": 4947556
+ },
+ {
+  "filename": "Holy-Bible---Greek---Greek-Tregelles---Standard-Edition.json",
+  "bible_name": "H Καινή Διαθήκη",
+  "language": "Ελληνική",
+  "language_en": "Greek, Koine",
+  "size": 1764911
+ },
+ {
+  "filename": "Holy-Bible---Japanese---Japanese-Meiji-yaku---Standard-Edition.json",
+  "bible_name": "明治元訳「舊約聖書」",
+  "language": "日本語",
+  "language_en": "Japanese",
+  "size": 1563252
+ },
+ {
+  "filename": "Holy-Bible---English---New-Heart-Messianic---Standard-Edition.json",
+  "bible_name": "New Heart English Bible, Yeshua",
+  "language": "English",
+  "language_en": "English",
+  "size": 4447668
+ },
+ {
+  "filename": "Holy-Bible---Isanzu---Isanzu-Bible---Standard-Edition.json",
+  "bible_name": "Kiisanzu Bible",
+  "language": "Kiisanzu",
+  "language_en": "Isanzu",
+  "size": 1069272
+ },
+ {
+  "filename": "Holy-Bible---English---New-Heart-Jesus-Messiah---Standard-Edition.json",
+  "bible_name": "New Heart English Bible, Messiah",
+  "language": "English",
+  "language_en": "English",
+  "size": 4446092
+ },
+ {
+  "filename": "Holy-Bible---Malayalam---Malayalam-Bible-1910---Standard-Edition.json",
+  "bible_name": "മലയാളം ബൈബിള്‍ 1910",
+  "language": "മലയാളം",
+  "language_en": "Malayalam",
+  "size": 11307783
+ },
+ {
+  "filename": "Holy-Bible---Hindi---Hindi-Bible---Standard-Edition.json",
+  "bible_name": "पवित्र बाइबिल",
+  "language": "हिन्दी",
+  "language_en": "Hindi",
+  "size": 9844333
+ },
+ {
+  "filename": "Holy-Bible---Swedish---Swedish-Bible---Standard-Edition.json",
+  "bible_name": "Svensk Bibel",
+  "language": "Svensk",
+  "language_en": "Swedish",
+  "size": 4646182
+ },
+ {
+  "filename": "Holy-Bible---English---Catholic-Public-Domain---Standard-Edition.json",
+  "bible_name": "Catholic Public Domain Version",
+  "language": "English",
+  "language_en": "English",
+  "size": 4712548
+ },
+ {
+  "filename": "Holy-Bible---Chin-Daai---Daai-Chin-Bible---Standard-Edition.json",
+  "bible_name": "Dai Cangcim Kthai",
+  "language": "Daai",
+  "language_en": "Chin, Daai",
+  "size": 1126514
+ },
+ {
+  "filename": "Holy-Bible---English---STEPBible-Amalgamant---Standard-Edition.json",
+  "bible_name": "STEPBible, Amalgamant",
+  "language": "English",
+  "language_en": "English",
+  "size": 4846182
+ },
+ {
+  "filename": "Holy-Bible---Chin-Matu---Tuivang-Matu-Chin-Bible---Standard-Edition.json",
+  "bible_name": "Tuivang Holy Bible",
+  "language": "Tuivang",
+  "language_en": "Chin, Matu",
+  "size": 1569520
+ },
+ {
+  "filename": "Holy-Bible---Nepali---Nepali-Contemporary---Standard-Edition.json",
+  "bible_name": "नेपाली समकालीन सर्वसुलभ संस्करण",
+  "language": "नेपाली",
+  "language_en": "Nepali",
+  "size": 10933369
+ },
+ {
+  "filename": "Holy-Bible---Munda---Munda-Bible---Standard-Edition.json",
+  "bible_name": "ପାର୍‌ମେଶ୍ୱାର୍‌ଆଃ ଜୀନିଦ୍‌ ବାଚାନ୍‌",
+  "language": "ମୁଣ୍ଡାରୀ",
+  "language_en": "Munda",
+  "size": 3404249
+ },
+ {
+  "filename": "Holy-Bible---Greek---Greek-LXX-Septuagint---Standard-Edition.json",
+  "bible_name": "H μετάφρασις τῶν Ἑβδομήκοντα",
+  "language": "Ελληνική",
+  "language_en": "Greek, Koine",
+  "size": 5845637
+ },
+ {
+  "filename": "Holy-Bible---English---Gods-Living-Word---Standard-Edition.json",
+  "bible_name": "God's Living Word",
+  "language": "English",
+  "language_en": "English",
+  "size": 128992
+ },
+ {
+  "filename": "Holy-Bible---Swahili---New-Swahili-Bible---Standard-Edition.json",
+  "bible_name": "Biblia Takatifu Mpya",
+  "language": "Kiswahili",
+  "language_en": "Swahili",
+  "size": 4375152
+ },
+ {
+  "filename": "Holy-Bible---English---Weymouth-NT---Standard-Edition.json",
+  "bible_name": "Weymouth New Testament",
+  "language": "English",
+  "language_en": "English",
+  "size": 1136290
+ },
+ {
+  "filename": "Holy-Bible---English---King-James-Version-Restored-Name---Standard-Edition.json",
+  "bible_name": "King James Version, Restored",
+  "language": "English",
+  "language_en": "English",
+  "size": 4515354
+ },
+ {
+  "filename": "Holy-Bible---Gourma---Gourma-Bible---Standard-Edition.json",
+  "bible_name": "Bible Gourma du Burkina Faso",
+  "language": "Gourmanchéma",
+  "language_en": "Gourma",
+  "size": 1085037
+ },
+ {
+  "filename": "Holy-Bible---Croatian---Croatian-Bible---Standard-Edition.json",
+  "bible_name": "Hrvatski Biblija",
+  "language": "Hrvatski",
+  "language_en": "Croatian",
+  "size": 3785801
+ },
+ {
+  "filename": "Holy-Bible---Luganda---Luganda-Bible---Standard-Edition.json",
+  "bible_name": "Bayibuli Entukuvu",
+  "language": "Luganda",
+  "language_en": "Luganda",
+  "size": 4632762
+ },
+ {
+  "filename": "Holy-Bible---German---German-Luther-Bible-1545---Standard-Edition.json",
+  "bible_name": "Deutsche Bibel, Luther",
+  "language": "Deutsch",
+  "language_en": "German",
+  "size": 4365594
+ },
+ {
+  "filename": "Holy-Bible---Sanskrit---Urdu-Script---Standard-Edition.json",
+  "bible_name": "اردو",
+  "language": "اردو",
+  "language_en": "Sanskrit",
+  "size": 2106131
+ },
+ {
+  "filename": "Holy-Bible---Flemish---Flemish-De-Jonge-Bible---Standard-Edition.json",
+  "bible_name": "Het Vlaams Nieuwe Testament",
+  "language": "Vlaams",
+  "language_en": "Flemish",
+  "size": 1087206
+ },
+ {
+  "filename": "Holy-Bible---Polish---Polish-Updated-Gdansk---Standard-Edition.json",
+  "bible_name": "Święta Biblia",
+  "language": "Polskie",
+  "language_en": "Polish",
+  "size": 4300851
+ },
+ {
+  "filename": "Holy-Bible---Breton---Breton-Gospels---Standard-Edition.json",
+  "bible_name": "an Bibl",
+  "language": "Brezhoneg",
+  "language_en": "Breton",
+  "size": 485608
+ },
+ {
+  "filename": "Holy-Bible---English---Open-English-Bible-Commonwealth---Standard-Edition.json",
+  "bible_name": "Open English Bible, Commonwealth",
+  "language": "English",
+  "language_en": "English",
+  "size": 1556475
+ },
+ {
+  "filename": "Holy-Bible---English---STEPBible-Concordant---Standard-Edition.json",
+  "bible_name": "STEPBible, Concordant",
+  "language": "English",
+  "language_en": "English",
+  "size": 5172592
+ },
+ {
+  "filename": "Holy-Bible---Romani-Vlax---Gurbet-Luke---Standard-Edition.json",
+  "bible_name": "Lačho lafi taro Luka",
+  "language": "Gurbet Romani",
+  "language_en": "Romani Vlax, Gurbet",
+  "size": 154454
+ },
+ {
+  "filename": "Holy-Bible---Sanskrit---Sinhala-Script---Standard-Edition.json",
+  "bible_name": "සිංහල",
+  "language": "සිංහල",
+  "language_en": "Sanskrit",
+  "size": 2538906
+ },
+ {
+  "filename": "Holy-Bible---Urdu---Urdu-Bible---Standard-Edition.json",
+  "bible_name": "उर्दू बाइबिल, देवनागरी",
+  "language": "उर्दू",
+  "language_en": "Urdu",
+  "size": 9892263
+ },
+ {
+  "filename": "Holy-Bible---Greek---Greek-TR-Stephanus-Scrivener---Standard-Edition.json",
+  "bible_name": "H Καινή Διαθήκη",
+  "language": "Ελληνική",
+  "language_en": "Greek, Koine",
+  "size": 1626823
+ },
+ {
+  "filename": "Holy-Bible---Italian---Conferenza-Episcopale-Italiana---Standard-Edition.json",
+  "bible_name": "Conferenza Episcopale Italiana",
+  "language": "Italiano",
+  "language_en": "Italian",
+  "size": 4283776
+ },
+ {
+  "filename": "Holy-Bible---Desiya---Desiya-Bible---Standard-Edition.json",
+  "bible_name": "ସତିଅର୍‌ ବାଟ୍‌",
+  "language": "ଦେଶିଆ",
+  "language_en": "Desiya",
+  "size": 3175633
+ },
+ {
+  "filename": "Holy-Bible---Greek---Text-Critical---Standard-Edition.json",
+  "bible_name": "H Καινή Διαθήκη",
+  "language": "Ελληνική",
+  "language_en": "Greek, Koine",
+  "size": 1780001
+ },
+ {
+  "filename": "Holy-Bible---English---Montgomery-NT---Standard-Edition.json",
+  "bible_name": "Montgomery New Testament",
+  "language": "English",
+  "language_en": "English",
+  "size": 1059035
+ },
+ {
+  "filename": "Holy-Bible---Greek---Greek-Stephanus---Standard-Edition.json",
+  "bible_name": "H Καινή Διαθήκη",
+  "language": "Ελληνική",
+  "language_en": "Greek, Koine",
+  "size": 1626588
+ },
+ {
+  "filename": "Holy-Bible---English---Haweis-Bible---Standard-Edition.json",
+  "bible_name": "Haweis New Testament",
+  "language": "English",
+  "language_en": "English",
+  "size": 1073018
+ },
+ {
+  "filename": "Holy-Bible---Marathi---Marathi-Bible---Standard-Edition.json",
+  "bible_name": "राठी बायबल",
+  "language": "मराठी",
+  "language_en": "Marathi",
+  "size": 10802236
+ },
+ {
+  "filename": "Holy-Bible---Coptic---Sahidic-Coptic-Horner---Standard-Edition.json",
+  "bible_name": "ⲧⲙⲛ̄ⲧⲣⲙ̄ⲛ̄ⲕⲏⲙⲉ",
+  "language": "ⲧⲙⲛ̄ⲧⲣⲙ̄ⲛ̄ⲕⲏⲙⲉ",
+  "language_en": "Coptic",
+  "size": 2098257
+ },
+ {
+  "filename": "Holy-Bible---Latin---Clementine-Vulgate-Conte---Standard-Edition.json",
+  "bible_name": "Bibbia Vulgata Clementina",
+  "language": "Latine",
+  "language_en": "Latin",
+  "size": 3919071
+ },
+ {
+  "filename": "Holy-Bible---Irish---Odomhnuill-Modern---Standard-Edition.json",
+  "bible_name": "Irish O'Domhnuill Modernized",
+  "language": "Irish",
+  "language_en": "Irish",
+  "size": 171468
+ },
+ {
+  "filename": "Holy-Bible---Romanian---Ludari-Luke---Standard-Edition.json",
+  "bible_name": "Ludari Luka",
+  "language": "Ludari",
+  "language_en": "Romanian",
+  "size": 167064
+ },
+ {
+  "filename": "Holy-Bible---Slovene---Slovene-Savli-Bible---Standard-Edition.json",
+  "bible_name": "Slovenščina Sveto pismo Kralja Jakoba",
+  "language": "Slovenščina",
+  "language_en": "Slovene",
+  "size": 4287202
+ },
+ {
+  "filename": "Holy-Bible---Spanish---Free-for-the-World---Standard-Edition.json",
+  "bible_name": "Santa Biblia Libre para el Mundo",
+  "language": "Español",
+  "language_en": "Spanish",
+  "size": 4386347
+ },
+ {
+  "filename": "Holy-Bible---English---Godbey-Bible---Standard-Edition.json",
+  "bible_name": "Godbey New Testament",
+  "language": "English",
+  "language_en": "English",
+  "size": 1035943
+ },
+ {
+  "filename": "Holy-Bible---Bengali---Contemporary---Standard-Edition.json",
+  "bible_name": "মুক্তভাবে বাংলা সমকালীন সংস্করণের",
+  "language": "বাংলা",
+  "language_en": "Bengali",
+  "size": 10796518
+ },
+ {
+  "filename": "Holy-Bible---Panjabi---Punjabi-Bible---Standard-Edition.json",
+  "bible_name": "ਪੰਜਾਬੀ ਬਾਈਬਲ",
+  "language": "ਪੰਜਾਬੀ",
+  "language_en": "Panjabi, Eastern",
+  "size": 10160797
+ },
+ {
+  "filename": "Holy-Bible---Twi---Asante-Twi-WASNA---Standard-Edition.json",
+  "bible_name": "Asante Twi Nkwa Asɛm",
+  "language": "Asante Twi",
+  "language_en": "Twi",
+  "size": 4312675
+ },
+ {
+  "filename": "Holy-Bible---German---German-Schlachter---Standard-Edition.json",
+  "bible_name": "Deutsche Bibel",
+  "language": "Deutsch",
+  "language_en": "German",
+  "size": 4616699
+ },
+ {
+  "filename": "Holy-Bible---Uyghur---Uyghur-Bible-Latin---Standard-Edition.json",
+  "bible_name": "Muqeddes Kalam (latin yéziq)",
+  "language": "Uyghur tili",
+  "language_en": "Uyghur",
+  "size": 5089128
+ },
+ {
+  "filename": "Holy-Bible---English---World-English-Bible-British-Edition---Standard-Edition.json",
+  "bible_name": "World English Bible, British",
+  "language": "English",
+  "language_en": "English",
+  "size": 4425380
+ },
+ {
+  "filename": "Holy-Bible---English---New-Heart-Jehovah---Standard-Edition.json",
+  "bible_name": "New Heart English Bible, Jehovah",
+  "language": "English",
+  "language_en": "English",
+  "size": 4439615
+ },
+ {
+  "filename": "Holy-Bible---English---Douay-Rheims-1899---Standard-Edition.json",
+  "bible_name": "Douay-Rheims 1899",
+  "language": "English",
+  "language_en": "English",
+  "size": 4449635
+ },
+ {
+  "filename": "Holy-Bible---English---LXX2012-U-S-English---Standard-Edition.json",
+  "bible_name": "LXX: Septuagint, English 2012",
+  "language": "English",
+  "language_en": "English",
+  "size": 3481940
+ },
+ {
+  "filename": "Holy-Bible---Uyghur---Uyghur-Bible-Arabic---Standard-Edition.json",
+  "bible_name": "مۇقېددېس كالام (يەنگى يېزىق)",
+  "language": "Uyghur tili",
+  "language_en": "Uyghur",
+  "size": 8650695
+ },
+ {
+  "filename": "Holy-Bible---English---World-Messianic-Bible---Standard-Edition.json",
+  "bible_name": "World Messianic Bible",
+  "language": "English",
+  "language_en": "English",
+  "size": 4423578
+ },
+ {
+  "filename": "Holy-Bible---Italian---Italian-Giovanni-Diodati-Bible---Standard-Edition.json",
+  "bible_name": "Diodati Italiano Bibbia",
+  "language": "Italiano",
+  "language_en": "Italian",
+  "size": 4701253
+ },
+ {
+  "filename": "Holy-Bible---French---French-Ostervald-Bible---Standard-Edition.json",
+  "bible_name": "Ostervald French Bible",
+  "language": "Français",
+  "language_en": "French",
+  "size": 4675046
+ },
+ {
+  "filename": "Holy-Bible---Sanskrit---Tibetan-Script---Standard-Edition.json",
+  "bible_name": "ལྷ་སའི་སྐད་",
+  "language": "ལྷ་སའི་སྐད་",
+  "language_en": "Sanskrit",
+  "size": 2216153
+ },
+ {
+  "filename": "Holy-Bible---Bodo-Parja---BOPO-Bible---Standard-Edition.json",
+  "bible_name": "ସଃର୍ଗାର୍‌ ବାଟ୍‌ ନଃଉଁଆ ନିଅମ୍‌",
+  "language": "ବଡ଼ ପରଜା",
+  "language_en": "Bodo Parja",
+  "size": 3180425
+ },
+ {
+  "filename": "Holy-Bible---Scots-Gaelic---Scots-Gaelic-Gospel-Mark---Standard-Edition.json",
+  "bible_name": "Gàidhlig Soisgeul",
+  "language": "Gàidhlig",
+  "language_en": "Scots Gaelic",
+  "size": 93205
+ },
+ {
+  "filename": "Holy-Bible---Tongan---Revised-West-Version---Standard-Edition.json",
+  "bible_name": "Tongan Bible, Revised West",
+  "language": "Tongan",
+  "language_en": "Tongan",
+  "size": 5661352
+ },
+ {
+  "filename": "Holy-Bible---Spanish---Biblia-Platense-Straubinger---Standard-Edition.json",
+  "bible_name": "La Biblia Platense",
+  "language": "Español",
+  "language_en": "Spanish",
+  "size": 4402434
+ },
+ {
+  "filename": "Holy-Bible---English---British-English-Septuagint-2012---Standard-Edition.json",
+  "bible_name": "British English Septuagint 2012",
+  "language": "English",
+  "language_en": "English",
+  "size": 3484391
+ },
+ {
+  "filename": "Holy-Bible---Greek---Greek-SBL---Standard-Edition.json",
+  "bible_name": "H Καινή Διαθήκη",
+  "language": "Ελληνική",
+  "language_en": "Greek, Koine",
+  "size": 1769313
+ },
+ {
+  "filename": "Holy-Bible---Dombe---Dombe-Bible---Standard-Edition.json",
+  "bible_name": "Dombe Bible",
+  "language": "Dombe",
+  "language_en": "Dombe",
+  "size": 1050987
+ },
+ {
+  "filename": "Holy-Bible---Greek---Greek-Statistical-Restoration---Standard-Edition.json",
+  "bible_name": "H Καινή Διαθήκη",
+  "language": "Ελληνική",
+  "language_en": "Greek, Koine",
+  "size": 1775227
+ },
+ {
+  "filename": "Holy-Bible---Yombe---Yombe-Bible---Standard-Edition.json",
+  "bible_name": "Open Nguizani Yimona ayi Minkunga",
+  "language": "Kiyombi",
+  "language_en": "Yombe",
+  "size": 1394212
+ },
+ {
+  "filename": "Holy-Bible---Swahili---Contemporary---Standard-Edition.json",
+  "bible_name": "Biblia Takatifu Wazi, Kiswahili",
+  "language": "Kiswahili",
+  "language_en": "Swahili",
+  "size": 4344177
+ },
+ {
+  "filename": "Holy-Bible---Latin---Vulgata-Sistina---Standard-Edition.json",
+  "bible_name": "Bibbia Vulgata Sistina",
+  "language": "Latine",
+  "language_en": "Latin",
+  "size": 3922831
+ },
+ {
+  "filename": "Holy-Bible---English---Open-English-Bible-US---Standard-Edition.json",
+  "bible_name": "Open English Bible, US",
+  "language": "English",
+  "language_en": "English",
+  "size": 1556125
+ },
+ {
+  "filename": "Holy-Bible---German---German-Tafel-Bible---Standard-Edition.json",
+  "bible_name": "Deutsche Bibel, Tafel",
+  "language": "Deutsch",
+  "language_en": "German",
+  "size": 3933194
+ },
+ {
+  "filename": "Holy-Bible---Hebrew---Living-Bible---Standard-Edition.json",
+  "bible_name": "הברית החדשה/הדרך זכויות פתוחות",
+  "language": "עברית",
+  "language_en": "Hebrew",
+  "size": 1381610
+ },
+ {
+  "filename": "Holy-Bible---Manipuri---Meitei-Bible---Standard-Edition.json",
+  "bible_name": "Meitei Bible",
+  "language": "Meitei",
+  "language_en": "Manipuri",
+  "size": 1337184
+ },
+ {
+  "filename": "Holy-Bible---Ndebele---Ndebele-Bible---Standard-Edition.json",
+  "bible_name": "Ndebele Bible",
+  "language": "Ndebele",
+  "language_en": "Ndebele",
+  "size": 4224797
+ },
+ {
+  "filename": "Holy-Bible---Romani-Vlax---Lovaric-Bible---Standard-Edition.json",
+  "bible_name": "Библия пэ ловарицко романы щиб",
+  "language": "Lovari Romani",
+  "language_en": "Romani Vlax, Lovari",
+  "size": 34218
+ },
+ {
+  "filename": "Holy-Bible---Amo---Amo-Bible---Standard-Edition.json",
+  "bible_name": "Amo Bible",
+  "language": "Timap",
+  "language_en": "Amo",
+  "size": 1028279
+ },
+ {
+  "filename": "Holy-Bible---Tagin---Tagin-First-Bible---Standard-Edition.json",
+  "bible_name": "ANWNV GAMLV",
+  "language": "Tagin",
+  "language_en": "Tagin",
+  "size": 1272044
+ },
+ {
+  "filename": "Holy-Bible---Romani-Vlax---Chergash-Luke---Standard-Edition.json",
+  "bible_name": "Chergash Luka",
+  "language": "Chergash Romani",
+  "language_en": "Romani Vlax, Chergash",
+  "size": 161650
+ },
+ {
+  "filename": "Holy-Bible---Chamorro---Chamorro-Gospels-Acts-and-Psalms---Standard-Edition.json",
+  "bible_name": "Y Cuatro Ebangelio Sija Yan Y Checho Y Apostoles Yan Y Salmo Sija",
+  "language": "Chamorro",
+  "language_en": "Chamorro",
+  "size": 885412
+ },
+ {
+  "filename": "Holy-Bible---Czech---Kralicka---Standard-Edition.json",
+  "bible_name": "Bible Kralická 1613",
+  "language": "Čeština",
+  "language_en": "Czech",
+  "size": 4273359
+ },
+ {
+  "filename": "Holy-Bible---Spanish---Reina-Valera-NT-1858---Standard-Edition.json",
+  "bible_name": "Español Santa Biblia",
+  "language": "Español",
+  "language_en": "Spanish",
+  "size": 1029660
+ },
+ {
+  "filename": "Holy-Bible---Hausa---Contemporary---Standard-Edition.json",
+  "bible_name": "Littafi Mai Tsarki, Don Kowa",
+  "language": "Hausa",
+  "language_en": "Hausa",
+  "size": 4316204
+ },
+ {
+  "filename": "Holy-Bible---English---New-Heart-Standard---Standard-Edition.json",
+  "bible_name": "New Heart English Bible, Standard",
+  "language": "English",
+  "language_en": "English",
+  "size": 4444934
+ },
+ {
+  "filename": "Holy-Bible---Uyghur---Uyghur-Bible-Cyrillic---Standard-Edition.json",
+  "bible_name": "Муқеддес Калам (кирил йезиқ)",
+  "language": "Uyghur tili",
+  "language_en": "Uyghur",
+  "size": 8237192
+ },
+ {
+  "filename": "Holy-Bible---Ewe---Word-of-Life---Standard-Edition.json",
+  "bible_name": "Biblia Agbenya La",
+  "language": "Eʋegbe",
+  "language_en": "Ewe",
+  "size": 4506006
+ },
+ {
+  "filename": "Holy-Bible---Norwegian---Norwegian-Student-Bible---Standard-Edition.json",
+  "bible_name": "Fyre Car, Studentmållagsbibelen",
+  "language": "Norsk Nynorsk",
+  "language_en": "Norwegian Nynorsk",
+  "size": 4172838
+ },
+ {
+  "filename": "Holy-Bible---Serbian---Serbian-Ekavski-Bible---Standard-Edition.json",
+  "bible_name": "Сербиан Библе, Даничић Караџић",
+  "language": "Cрпски",
+  "language_en": "Serbian",
+  "size": 6006840
+ },
+ {
+  "filename": "Holy-Bible---Maori---Maori-Bible---Standard-Edition.json",
+  "bible_name": "Te Paipera Tapu",
+  "language": "Māori",
+  "language_en": "Māori",
+  "size": 4830365
+ },
+ {
+  "filename": "Holy-Bible---Korean---Korean-RV---Standard-Edition.json",
+  "bible_name": "개역성경",
+  "language": "한국어",
+  "language_en": "Korean",
+  "size": 4858557
+ },
+ {
+  "filename": "Holy-Bible---Hebrew---Modern-Hebrew-Bible---Standard-Edition.json",
+  "bible_name": "תנ ך עברי מודרני",
+  "language": "עברית",
+  "language_en": "Hebrew",
+  "size": 4113399
+ },
+ {
+  "filename": "Holy-Bible---Naga-Pidgin---Nagamese-Bible---Standard-Edition.json",
+  "bible_name": "Indian Standard Version Nagamese",
+  "language": "Nagamiz",
+  "language_en": "Naga, Pidgin",
+  "size": 1226159
+ },
+ {
+  "filename": "Holy-Bible---Kiche---Totonicapan---Standard-Edition.json",
+  "bible_name": "Ri Kꞌakꞌ Testamento Pa Tzijobꞌal Kꞌicheꞌ",
+  "language": "Qach’abel",
+  "language_en": "K'iche'",
+  "size": 1363706
+ },
+ {
+  "filename": "Holy-Bible---English---One-Unity-Resource-Bible---Standard-Edition.json",
+  "bible_name": "One Unity Resource Bible",
+  "language": "English",
+  "language_en": "English",
+  "size": 2102425
+ },
+ {
+  "filename": "Holy-Bible---Sanskrit---Harvard-Kyoto-Script---Standard-Edition.json",
+  "bible_name": "Sanskrit NT, Harvard-Kyoto",
+  "language": "Harvard-Kyoto",
+  "language_en": "Sanskrit",
+  "size": 1031290
+ },
+ {
+  "filename": "Holy-Bible---Myanmar---Myanmar-Burmese-Judson---Standard-Edition.json",
+  "bible_name": "မြန်မာယုဒသန်သမ္မာကျမ်း",
+  "language": "မြန်မာဘာသာ",
+  "language_en": "Myanmar Burmese",
+  "size": 12055040
+ },
+ {
+  "filename": "Holy-Bible---Greek---Greek-Textus-Receptus---Standard-Edition.json",
+  "bible_name": "H Καινή Διαθήκη",
+  "language": "Ελληνική",
+  "language_en": "Greek, Koine",
+  "size": 1633293
+ },
+ {
+  "filename": "Holy-Bible---German---German-Kautzsch-Weizsacker---Standard-Edition.json",
+  "bible_name": "Deutsche Bibel, Kautzsch und Weizsäcker",
+  "language": "Deutsch",
+  "language_en": "German",
+  "size": 4704653
+ },
+ {
+  "filename": "Holy-Bible---Korean---Korean-Revised-Version---Standard-Edition.json",
+  "bible_name": "개역성경",
+  "language": "한국어",
+  "language_en": "Korean",
+  "size": 4814088
+ },
+ {
+  "filename": "Holy-Bible---Cherokee---Cherokee-New-Testament---Standard-Edition.json",
+  "bible_name": "ᏣᎳᎩ ᎦᏬᏂᎯᏍᏗ",
+  "language": "ᏣᎳᎩ ᎦᏬᏂᎯᏍᏗ",
+  "language_en": "Cherokee",
+  "size": 1733325
+ },
+ {
+  "filename": "Holy-Bible---Pengo---Pengo-Bible---Standard-Edition.json",
+  "bible_name": "ସତ୍‌ ବଚନ୍‌",
+  "language": "Pengu",
+  "language_en": "Pengo",
+  "size": 3130195
+ },
+ {
+  "filename": "Holy-Bible---English---Trans-Trans---Standard-Edition.json",
+  "bible_name": "Translation for Translators",
+  "language": "English",
+  "language_en": "English",
+  "size": 6084938
+ },
+ {
+  "filename": "Holy-Bible---English---A-Conservative-Version---Standard-Edition.json",
+  "bible_name": "A Conservative Version",
+  "language": "English",
+  "language_en": "English",
+  "size": 4476315
+ },
+ {
+  "filename": "Holy-Bible---Mwera---Mwera-Bible---Standard-Edition.json",
+  "bible_name": "Malagano ga Ambi",
+  "language": "Mwera",
+  "language_en": "Mwera",
+  "size": 1229693
+ },
+ {
+  "filename": "Holy-Bible---Latin---Clementine-Vulgate-1598---Standard-Edition.json",
+  "bible_name": "Bibbia Vulgata Clementina",
+  "language": "Latine",
+  "language_en": "Latin",
+  "size": 3921155
+ },
+ {
+  "filename": "Holy-Bible---Latin---Vulgate-Jerome---Standard-Edition.json",
+  "bible_name": "Bibbia Vulgata Jerome",
+  "language": "Latine",
+  "language_en": "Latin",
+  "size": 3776417
+ },
+ {
+  "filename": "Holy-Bible---English---New-Heart-YHWH---Standard-Edition.json",
+  "bible_name": "New Heart English Bible, YHWH",
+  "language": "English",
+  "language_en": "English",
+  "size": 4419450
+ },
+ {
+  "filename": "Holy-Bible---Ngoni---Ngoni-Bible---Standard-Edition.json",
+  "bible_name": "Ngoni New Testament",
+  "language": "Chingoni",
+  "language_en": "Ngoni",
+  "size": 1166021
+ },
+ {
+  "filename": "Holy-Bible---Greek---Greek-Scrivener---Standard-Edition.json",
+  "bible_name": "H Καινή Διαθήκη",
+  "language": "Ελληνική",
+  "language_en": "Greek, Koine",
+  "size": 1625351
+ },
+ {
+  "filename": "Holy-Bible---German---German-Luther-Bible-1912---Standard-Edition.json",
+  "bible_name": "Deutsche Bibel, Luther",
+  "language": "Deutsch",
+  "language_en": "German",
+  "size": 4474593
+ },
+ {
+  "filename": "Holy-Bible---Aramaic---Syriac-Peshitta---Standard-Edition.json",
+  "bible_name": "ܦܫܝܛܬܐ",
+  "language": "ܦܫܝܛܬܐ",
+  "language_en": "Aramaic",
+  "size": 1130822
+ },
+ {
+  "filename": "Holy-Bible---Cebuano---Cebuano-Bible---Standard-Edition.json",
+  "bible_name": "Balaan nga Bibliya",
+  "language": "Cebuano",
+  "language_en": "Cebuano",
+  "size": 5354055
+ },
+ {
+  "filename": "Holy-Bible---Hausa---Hausa-Bible---Standard-Edition.json",
+  "bible_name": "Littafi Mai Tsarki",
+  "language": "Hausa",
+  "language_en": "Hausa",
+  "size": 1026129
+ },
+ {
+  "filename": "Holy-Bible---Soli---Soli-Bible---Standard-Edition.json",
+  "bible_name": "Soli Bible",
+  "language": "Chisoli",
+  "language_en": "Soli",
+  "size": 1177737
+ },
+ {
+  "filename": "Holy-Bible---Portuguese---World-Portuguese-Bible---Standard-Edition.json",
+  "bible_name": "Bíblia Portuguesa Mundial",
+  "language": "Língua Portuguesa",
+  "language_en": "Portuguese",
+  "size": 4432634
+ },
+ {
+  "filename": "Holy-Bible---Czech---Czech-Bible-Kralicka---Standard-Edition.json",
+  "bible_name": "Czech Bible Kralicka 1613",
+  "language": "Čeština",
+  "language_en": "Czech",
+  "size": 4259076
+ },
+ {
+  "filename": "Holy-Bible---Romanian---BTF-Bible---Standard-Edition.json",
+  "bible_name": "Biblia Traducerea Fidela",
+  "language": "Română",
+  "language_en": "Romanian",
+  "size": 4675980
+ },
+ {
+  "filename": "Holy-Bible---Finnish---Open-Living-News---Standard-Edition.json",
+  "bible_name": "Suomi Avoin Elävä Uutinen",
+  "language": "Suomen Kieli",
+  "language_en": "Finnish",
+  "size": 1151985
+ },
+ {
+  "filename": "Holy-Bible---Armenian---Armenian-Bible-Eastern---Standard-Edition.json",
+  "bible_name": "Արեւելահայերեն Աստվածաշունչ",
+  "language": "Արեւելահայերեն",
+  "language_en": "Armenian, Eastern",
+  "size": 1365489
+ },
+ {
+  "filename": "Holy-Bible---Japanese---Japanese-Raguet-yaku---Standard-Edition.json",
+  "bible_name": "ラゲ訳「我主イエズスキリストの新約聖書」",
+  "language": "日本語",
+  "language_en": "Japanese",
+  "size": 1143463
+ },
+ {
+  "filename": "Holy-Bible---Spanish---Sagradas-Escrituras-1569---Standard-Edition.json",
+  "bible_name": "Sagradas Escrituras, Antigua",
+  "language": "Español",
+  "language_en": "Spanish",
+  "size": 4322753
+ },
+ {
+  "filename": "Holy-Bible---French---French-Stapfer-Bible---Standard-Edition.json",
+  "bible_name": "Nouveau Testament de Stapfer",
+  "language": "Français",
+  "language_en": "French",
+  "size": 1135806
+ },
+ {
+  "filename": "Holy-Bible---Norwegian---Norwegian-Bible---Standard-Edition.json",
+  "bible_name": "Norsk Bibel",
+  "language": "Norsk Bokmål",
+  "language_en": "Norwegian Bokmal",
+  "size": 4157289
+ },
+ {
+  "filename": "Holy-Bible---Gourmantche---Gourmantche-Bible---Standard-Edition.json",
+  "bible_name": "Bible Gourmantche du Togo",
+  "language": "Gourmanchéma",
+  "language_en": "Gourmantche",
+  "size": 1027659
+ },
+ {
+  "filename": "Holy-Bible---Blackfoot---Matthew---Standard-Edition.json",
+  "bible_name": "Ŏkhs' I Tsĭn Ik Sĭn Ni Matthew Ot Sĭn Ai Pi",
+  "language": "Siksiká",
+  "language_en": "Blackfoot",
+  "size": 152805
+ },
+ {
+  "filename": "Holy-Bible---Greek---Greek-Pickering-Family-35---Standard-Edition.json",
+  "bible_name": "H Καινή Διαθήκη",
+  "language": "Ελληνική",
+  "language_en": "Greek, Koine",
+  "size": 1621649
+ },
+ {
+  "filename": "Holy-Bible---Japanese---Japanese-Electronic-Network-Bible---Standard-Edition.json",
+  "bible_name": "日本の電子ネットワーク聖書",
+  "language": "日本語",
+  "language_en": "Japanese",
+  "size": 1003347
+ },
+ {
+  "filename": "Holy-Bible---Kinga---Mahanji-Bible---Standard-Edition.json",
+  "bible_name": "Mahanji Bible",
+  "language": "Mahanji",
+  "language_en": "Kinga",
+  "size": 1095811
+ },
+ {
+  "filename": "Holy-Bible---Czech---Living-Bible---Standard-Edition.json",
+  "bible_name": "Open Slovo Na Cestu",
+  "language": "Čeština",
+  "language_en": "Czech",
+  "size": 1000037
+ },
+ {
+  "filename": "Holy-Bible---English---World-Messianic-Bible-British-Edition---Standard-Edition.json",
+  "bible_name": "World Messianic Bible, British",
+  "language": "English",
+  "language_en": "English",
+  "size": 4428681
+ },
+ {
+  "filename": "Holy-Bible---English---Wycliffe-Bible---Standard-Edition.json",
+  "bible_name": "Wycliffe Bible",
+  "language": "English",
+  "language_en": "English",
+  "size": 4552091
+ },
+ {
+  "filename": "Holy-Bible---German---German-Albrecht---Standard-Edition.json",
+  "bible_name": "Deutsche Neues Testament, Psalmen",
+  "language": "Deutsch",
+  "language_en": "German",
+  "size": 1441758
+ },
+ {
+  "filename": "Holy-Bible---English---World-English-Bible---Standard-Edition.json",
+  "bible_name": "World English Bible",
+  "language": "English",
+  "language_en": "English",
+  "size": 4409325
+ },
+ {
+  "filename": "Holy-Bible---Dutch---Statenvertaling---Standard-Edition.json",
+  "bible_name": "Nederlandse Statenvertaling Bijbel",
+  "language": "Nederlandse",
+  "language_en": "Dutch",
+  "size": 4707995
+ },
+ {
+  "filename": "Holy-Bible---Setswana---Open-Tswana-Living---Standard-Edition.json",
+  "bible_name": "La Botshelo Kgolagano e Ntsha",
+  "language": "Setswana",
+  "language_en": "Setswana",
+  "size": 1300170
+ },
+ {
+  "filename": "Holy-Bible---Portuguese---Biblia-Livre---Standard-Edition.json",
+  "bible_name": "Bíblia Livre Portuguesa",
+  "language": "Língua Portuguesa",
+  "language_en": "Portuguese",
+  "size": 4277531
+ },
+ {
+  "filename": "Holy-Bible---Russian---Russian-Synodal-Translation---Standard-Edition.json",
+  "bible_name": "Синодальный перевод",
+  "language": "русский",
+  "language_en": "Russian",
+  "size": 6454516
+ },
+ {
+  "filename": "Holy-Bible---English---Unlocked-Literal-Bible---Standard-Edition.json",
+  "bible_name": "Unlocked Literal Bible",
+  "language": "English",
+  "language_en": "English",
+  "size": 4476189
+ },
+ {
+  "filename": "Holy-Bible---English---Free-Bible-Version---Standard-Edition.json",
+  "bible_name": "Free Bible Version",
+  "language": "English",
+  "language_en": "English",
+  "size": 4372913
+ },
+ {
+  "filename": "Holy-Bible---Shona---Rakasununguka---Standard-Edition.json",
+  "bible_name": "Bhaibheri MuChiShona Chanhasi",
+  "language": "chiShona",
+  "language_en": "Shona",
+  "size": 4343145
+ },
+ {
+  "filename": "Holy-Bible---Haitian---Haitian-Creole-Bible---Standard-Edition.json",
+  "bible_name": "Kreyòl Ayisyen Bible",
+  "language": "Kreyòl Ayisyen",
+  "language_en": "Haitian Creole",
+  "size": 4721435
+ },
+ {
+  "filename": "Holy-Bible---Coptic---Coptic-Boharic-NT---Standard-Edition.json",
+  "bible_name": "ϯⲙⲉⲧⲣⲉⲙⲛ̀ⲭⲏⲙⲓ",
+  "language": "ϯⲙⲉⲧⲣⲉⲙⲛ̀ⲭⲏⲙⲓ",
+  "language_en": "Coptic Boharic",
+  "size": 2157223
+ },
+ {
+  "filename": "Holy-Bible---Indonesian---New-Indonesian-Translation---Standard-Edition.json",
+  "bible_name": "Terjemahan Baru",
+  "language": "Bahasa Indonesia",
+  "language_en": "Indonesian",
+  "size": 5074459
+ },
+ {
+  "filename": "Holy-Bible---Arapaho---Arapaho-Luke---Standard-Edition.json",
+  "bible_name": "Hethadenee waunauyaunee vadan Luke Vanenāna",
+  "language": "Arapaho",
+  "language_en": "Arapaho",
+  "size": 167481
+ },
+ {
+  "filename": "Holy-Bible---English---Brenton-English-Septuagint---Standard-Edition.json",
+  "bible_name": "Brenton English Septuagint",
+  "language": "English",
+  "language_en": "English",
+  "size": 3486374
+ },
+ {
+  "filename": "Holy-Bible---German---German-Menge---Standard-Edition.json",
+  "bible_name": "Deutsche Bibel",
+  "language": "Deutsch",
+  "language_en": "German",
+  "size": 5117132
+ },
+ {
+  "filename": "Holy-Bible---English---Bible-in-Basic-English---Standard-Edition.json",
+  "bible_name": "Bible in Basic English",
+  "language": "English",
+  "language_en": "English",
+  "size": 4558475
+ },
+ {
+  "filename": "Holy-Bible---Sakachep---Sakachep-Bible---Standard-Edition.json",
+  "bible_name": "Pathien Lekhabu Inthieng Chongtung Thar",
+  "language": "Sakechep",
+  "language_en": "Sakachep",
+  "size": 1196515
+ },
+ {
+  "filename": "Holy-Bible---Hungarian---Hungarian-Jewish-Bible---Standard-Edition.json",
+  "bible_name": "Az Izraelita-Magyar Biblia",
+  "language": "Magyar Nyelv",
+  "language_en": "Hungarian",
+  "size": 3320361
+ },
+ {
+  "filename": "Holy-Bible---Pohnpeian---Pohnpeian-NT-Psalms-Old-Alphabet---Standard-Edition.json",
+  "bible_name": "Kadede Kap Pjam Akan",
+  "language": "Pohnpeian",
+  "language_en": "Pohnpeian",
+  "size": 1158855
+ },
+ {
+  "filename": "Holy-Bible---Twi---Akuapem-Twi-Bible---Standard-Edition.json",
+  "bible_name": "Akuapem Twi Nkwa Asɛm",
+  "language": "Akuapem Twi",
+  "language_en": "Twi",
+  "size": 4114916
+ },
+ {
+  "filename": "Holy-Bible---English---Berean-Standard---Standard-Edition.json",
+  "bible_name": "Berean Standard Bible",
+  "language": "English",
+  "language_en": "English",
+  "size": 4262306
+ },
+ {
+  "filename": "Holy-Bible---Greek---Greek-Textus-Receptus-Elzevir---Standard-Edition.json",
+  "bible_name": "H Καινή Διαθήκη",
+  "language": "Ελληνική",
+  "language_en": "Greek, Koine",
+  "size": 1627101
+ },
+ {
+  "filename": "Holy-Bible---Japanese---Japanese-Kougo-yaku---Standard-Edition.json",
+  "bible_name": "口語訳「聖書」",
+  "language": "日本語",
+  "language_en": "Japanese",
+  "size": 5683291
+ },
+ {
+  "filename": "Holy-Bible---Gikuyu---Kikuyu---Standard-Edition.json",
+  "bible_name": "Kiugo Gĩtheru Kĩa Ngai Kĩhingũre",
+  "language": "Kikuyu",
+  "language_en": "Gikuyu",
+  "size": 5299707
+ },
+ {
+  "filename": "Holy-Bible---Malagasy---Tandroy-Mahafaly-Bible---Standard-Edition.json",
+  "bible_name": "Saontsin’ Añahare, Madagascar",
+  "language": "Tandroy",
+  "language_en": "Malagasy, Tandroy-Mahafaly",
+  "size": 4497315
+ },
+ {
+  "filename": "Holy-Bible---Nepali---Nepali-Bible---Standard-Edition.json",
+  "bible_name": "पवित्र बाइबल",
+  "language": "नेपाली",
+  "language_en": "Nepali",
+  "size": 10989067
+ },
+ {
+  "filename": "Holy-Bible---French---French-Martin---Standard-Edition.json",
+  "bible_name": "Bible Française Martin",
+  "language": "Français",
+  "language_en": "French",
+  "size": 4912108
+ },
+ {
+  "filename": "Holy-Bible---Sanskrit---Malayalam-Script---Standard-Edition.json",
+  "bible_name": "മലയാളം",
+  "language": "മലയാളം",
+  "language_en": "Sanskrit",
+  "size": 2395194
+ },
+ {
+  "filename": "Holy-Bible---English---Worsley-Bible---Standard-Edition.json",
+  "bible_name": "John Worsley New Testament",
+  "language": "English",
+  "language_en": "English",
+  "size": 1043320
+ },
+ {
+  "filename": "Holy-Bible---Danish---Danish-Bible---Standard-Edition.json",
+  "bible_name": "Dansk Bibel",
+  "language": "Dansk",
+  "language_en": "Danish",
+  "size": 4041430
+ },
+ {
+  "filename": "Holy-Bible---Korean---Korean-1910---Standard-Edition.json",
+  "bible_name": "개역성경",
+  "language": "한국어",
+  "language_en": "Korean",
+  "size": 4811961
+ },
+ {
+  "filename": "Holy-Bible---Turkish---Open-Basic-Turkish---Standard-Edition.json",
+  "bible_name": "Türkçe Açık Lisans Temel İncil",
+  "language": "Türkçe",
+  "language_en": "Turkish",
+  "size": 1146810
+ },
+ {
+  "filename": "Holy-Bible---Spanish---Sencillo-Bible---Standard-Edition.json",
+  "bible_name": "La Biblia en Español Sencillo",
+  "language": "Español",
+  "language_en": "Spanish",
+  "size": 4546893
+ },
+ {
+  "filename": "Holy-Bible---Bareli-Palya---Palya-Bareli-Bible---Standard-Edition.json",
+  "bible_name": "भगवान ना खरला बोल",
+  "language": "Bareli, Palya",
+  "language_en": "Bareli, Palya",
+  "size": 341687
+ },
+ {
+  "filename": "Holy-Bible---Japanese---Japanese-Bungo-yaku---Standard-Edition.json",
+  "bible_name": "大正改訳「新約聖書」",
+  "language": "日本語",
+  "language_en": "Japanese",
+  "size": 4653723
+ },
+ {
+  "filename": "Holy-Bible---Portuguese---Almeida-Bible-1911---Standard-Edition.json",
+  "bible_name": "Ferreira de Almeida Bíblia",
+  "language": "Língua Portuguesa",
+  "language_en": "Portuguese",
+  "size": 4319578
+ },
+ {
+  "filename": "Holy-Bible---English---Anderson-Bible---Standard-Edition.json",
+  "bible_name": "Anderson New Testament 1864",
+  "language": "English",
+  "language_en": "English",
+  "size": 1047905
+ },
+ {
+  "filename": "Holy-Bible---Coptic---Sahidic-Bible---Standard-Edition.json",
+  "bible_name": "ⲧⲙⲛ̄ⲧⲣⲙ̄ⲛ̄ⲕⲏⲙⲉ",
+  "language": "ⲧⲙⲛ̄ⲧⲣⲙ̄ⲛ̄ⲕⲏⲙⲉ",
+  "language_en": "Coptic",
+  "size": 1993894
+ },
+ {
+  "filename": "Holy-Bible---Hindi---Contemporary---Standard-Edition.json",
+  "bible_name": "हिंदी समकालीन संस्करण-स्वतंत्र उपलब्धि",
+  "language": "हिन्दी",
+  "language_en": "Hindi",
+  "size": 10742070
+ },
+ {
+  "filename": "Holy-Bible---Safwa---Safwa-Bible---Standard-Edition.json",
+  "bible_name": "Biblia Takatifu",
+  "language": "Kisafwa",
+  "language_en": "Safwa",
+  "size": 991820
+ },
+ {
+  "filename": "Holy-Bible---Esperanto---Esperanto-Bible---Standard-Edition.json",
+  "bible_name": "Esperanto London Bible",
+  "language": "Esperanto",
+  "language_en": "Esperanto",
+  "size": 4236433
+ },
+ {
+  "filename": "Holy-Bible---Vietnamese---Vietnamese-Bible---Standard-Edition.json",
+  "bible_name": "Kinh Thánh Tiếng Việt",
+  "language": "tiếng Việt",
+  "language_en": "Vietnamese",
+  "size": 5500118
+ },
+ {
+  "filename": "Holy-Bible---English---Tyndale-Bible---Standard-Edition.json",
+  "bible_name": "Tyndale Genesis, New Testament",
+  "language": "English",
+  "language_en": "English",
+  "size": 1045966
+ },
+ {
+  "filename": "Holy-Bible---English---Darby-Translation---Standard-Edition.json",
+  "bible_name": "Darby Translation",
+  "language": "English",
+  "language_en": "English",
+  "size": 4491890
+ },
+ {
+  "filename": "Holy-Bible---Spanish---Gods-Word-for-You---Standard-Edition.json",
+  "bible_name": "Palabra de Dios para Ti",
+  "language": "Español",
+  "language_en": "Spanish",
+  "size": 4189669
+ },
+ {
+  "filename": "Holy-Bible---Polish---Polish-Gdansk---Standard-Edition.json",
+  "bible_name": "Święta Biblia",
+  "language": "Polskie",
+  "language_en": "Polish",
+  "size": 4387677
+ },
+ {
+  "filename": "Holy-Bible---Latin---Clementine-Vulgate-Tweedale---Standard-Edition.json",
+  "bible_name": "Bibbia Vulgata Clementina",
+  "language": "Latine",
+  "language_en": "Latin",
+  "size": 3918451
+ },
+ {
+  "filename": "Holy-Bible---Shona---Shona-Bible---Standard-Edition.json",
+  "bible_name": "Bhaibheri",
+  "language": "chiShona",
+  "language_en": "Shona",
+  "size": 980493
+ },
+ {
+  "filename": "Holy-Bible---Kara---Kara-Bible---Standard-Edition.json",
+  "bible_name": "Kikara Bible",
+  "language": "Kikara",
+  "language_en": "Kara",
+  "size": 1128952
+ },
+ {
+  "filename": "Holy-Bible---English---Aionian-Bible---Standard-Edition.json",
+  "bible_name": "Aionian Bible",
+  "language": "English",
+  "language_en": "English",
+  "size": 4417145
+ },
+ {
+  "filename": "Holy-Bible---English---World-English-Bible-Updated---Standard-Edition.json",
+  "bible_name": "World English Bible Updated",
+  "language": "English",
+  "language_en": "English",
+  "size": 4420300
+ },
+ {
+  "filename": "Holy-Bible---Bengali---Bengali-Bible---Standard-Edition.json",
+  "bible_name": "বাংলা বাইবেল, ভারত",
+  "language": "বাংলা",
+  "language_en": "Bengali",
+  "size": 10259761
+ },
+ {
+  "filename": "Holy-Bible---Kamano---Kamano-Kafe---Standard-Edition.json",
+  "bible_name": "Anumzamofo Ruotage Avontafere",
+  "language": "Kamano-Kafe",
+  "language_en": "Kamano",
+  "size": 5755482
+ },
+ {
+  "filename": "Holy-Bible---Sanskrit---Oriya-Script---Standard-Edition.json",
+  "bible_name": "ଓଡ଼ିଆ",
+  "language": "ଓଡ଼ିଆ",
+  "language_en": "Sanskrit",
+  "size": 2437767
+ },
+ {
+  "filename": "Holy-Bible---Finnish---Finnish-Pyha-Raamattu---Standard-Edition.json",
+  "bible_name": "Finnish Pyha Raamattu 1933/1938",
+  "language": "Suomen Kieli",
+  "language_en": "Finnish",
+  "size": 4613086
+ },
+ {
+  "filename": "Holy-Bible---German---German-Elberfelder-1871---Standard-Edition.json",
+  "bible_name": "Deutsche Bibel, Elberfelder",
+  "language": "Deutsch",
+  "language_en": "German",
+  "size": 4995917
+ },
+ {
+  "filename": "Holy-Bible---Sanskrit---Khmer-Script---Standard-Edition.json",
+  "bible_name": "អក្សរខ្មែរ",
+  "language": "អក្សរខ្មែរ",
+  "language_en": "Sanskrit",
+  "size": 2452479
+ },
+ {
+  "filename": "Holy-Bible---Sanskrit---Cologne-Script---Standard-Edition.json",
+  "bible_name": "satyavEdaH",
+  "language": "satyavEdaH",
+  "language_en": "Sanskrit",
+  "size": 1033621
+ },
+ {
+  "filename": "Holy-Bible---French---Vulgate-Glaire---Standard-Edition.json",
+  "bible_name": "French Vulgate Glaire",
+  "language": "Français",
+  "language_en": "French",
+  "size": 4839262
+ },
+ {
+  "filename": "Holy-Bible---Greek---Greek-Westcott-Hort---Standard-Edition.json",
+  "bible_name": "H Καινή Διαθήκη",
+  "language": "Ελληνική",
+  "language_en": "Greek, Koine",
+  "size": 1637227
+ },
+ {
+  "filename": "Holy-Bible---Juray---Juray-Bible---Standard-Edition.json",
+  "bible_name": "ଆଜାଡ଼ି ତଙରନ୍‌",
+  "language": "Juray",
+  "language_en": "Juray",
+  "size": 3631244
+ },
+ {
+  "filename": "Holy-Bible---Dutch---Canisiusvertaling---Standard-Edition.json",
+  "bible_name": "Nederlandse Petrus Canisiusvertaling Bijbel",
+  "language": "Nederlandse",
+  "language_en": "Dutch",
+  "size": 4406893
+ },
+ {
+  "filename": "Holy-Bible---Vwanji---Vwanji-Bible---Standard-Edition.json",
+  "bible_name": "Kivwanji Bible",
+  "language": "Kivwanji",
+  "language_en": "Vwanji",
+  "size": 1164695
+ },
+ {
+  "filename": "Holy-Bible---SlavonicChurch---Church-Slavonic-Elizabeth---Standard-Edition.json",
+  "bible_name": "Библия церковно-славянском языке",
+  "language": "церковно-славянском",
+  "language_en": "Slavonic, Church",
+  "size": 6125831
+ },
+ {
+  "filename": "Holy-Bible---Spanish---Reina-Valera-1865---Standard-Edition.json",
+  "bible_name": "Español Santa Biblia",
+  "language": "Español",
+  "language_en": "Spanish",
+  "size": 4301137
+ },
+ {
+  "filename": "Holy-Bible---Ndengereko---Ndengereko-Bible---Standard-Edition.json",
+  "bible_name": "Kindengereko Bible",
+  "language": "Kindengereko",
+  "language_en": "Ndengereko",
+  "size": 1029199
+ },
+ {
+  "filename": "Holy-Bible---Romanian---Bayash-Luke---Standard-Edition.json",
+  "bible_name": "Luka",
+  "language": "Bayash",
+  "language_en": "Romanian",
+  "size": 167718
+ },
+ {
+  "filename": "Holy-Bible---Chinese---Chinese-Union-Version-Simplified---Standard-Edition.json",
+  "bible_name": "新标点和合本",
+  "language": "汉语",
+  "language_en": "Chinese",
+  "size": 3594575
+ },
+ {
+  "filename": "Holy-Bible---Ukrainian---Ukrainian-Ogienko---Standard-Edition.json",
+  "bible_name": "Українська Біблія, Івана Огієнка",
+  "language": "Український",
+  "language_en": "Ukrainian",
+  "size": 6727159
+ },
+ {
+  "filename": "Holy-Bible---Janji---Janji-Bible---Standard-Edition.json",
+  "bible_name": "Janji Bible",
+  "language": "Ajanji",
+  "language_en": "Janji",
+  "size": 985263
+ },
+ {
+  "filename": "Holy-Bible---Malayalam---Malayalam-Bible---Standard-Edition.json",
+  "bible_name": "മലയാളം ബൈബിള്‍",
+  "language": "മലയാളം",
+  "language_en": "Malayalam",
+  "size": 11504544
+ },
+ {
+  "filename": "Holy-Bible---English---King-James-Version-Revised---Standard-Edition.json",
+  "bible_name": "King James Version, Revised",
+  "language": "English",
+  "language_en": "English",
+  "size": 4504975
+ },
+ {
+  "filename": "Holy-Bible---Bangwinji---Bangwinji-Bible---Standard-Edition.json",
+  "bible_name": "Bangwinji Bible",
+  "language": "Bangunji",
+  "language_en": "Bangwinji",
+  "size": 837972
+ },
+ {
+  "filename": "Holy-Bible---Tagalog---Tagalog-Bible-1905---Standard-Edition.json",
+  "bible_name": "Tagalog Ang Biblia",
+  "language": "Tagalog",
+  "language_en": "Tagalog",
+  "size": 5246009
+ },
+ {
+  "filename": "Holy-Bible---Nend---Mark---Standard-Edition.json",
+  "bible_name": "MAK Yakŋ Ohɨrand Ya Imbɨr Makɨv Mpamar",
+  "language": "Nend",
+  "language_en": "Nend",
+  "size": 148607
+ },
+ {
+  "filename": "Holy-Bible---German---German-Katholiche-Riessler---Standard-Edition.json",
+  "bible_name": "Katholische Bibel, Paul Riessler",
+  "language": "Deutsch",
+  "language_en": "German",
+  "size": 4434785
+ },
+ {
+  "filename": "Holy-Bible---Portuguese---Portuguese-Trans-Trans---Standard-Edition.json",
+  "bible_name": "Tradução para Tradutores",
+  "language": "Língua Portuguesa",
+  "language_en": "Portuguese",
+  "size": 1876566
+ },
+ {
+  "filename": "Holy-Bible---Hebrew---Hebrew-STEPBible---Standard-Edition.json",
+  "bible_name": "כתבי הקודש",
+  "language": "עברית",
+  "language_en": "Hebrew",
+  "size": 5675838
+ },
+ {
+  "filename": "Holy-Bible---Gata---Gata-Didayi-Bible---Standard-Edition.json",
+  "bible_name": "ସତ୍‌ ଗାଲି",
+  "language": "ଡିଡାୟୀ",
+  "language_en": "Gta Asa, Didayi",
+  "size": 3336310
+ },
+ {
+  "filename": "Holy-Bible---Oromo---New-World---Standard-Edition.json",
+  "bible_name": "Hiikkaa Ammayyaa Banamaa Haaraa",
+  "language": "Afaan Oromoo",
+  "language_en": "Oromo, West Central",
+  "size": 4785390
+ },
+ {
+  "filename": "Holy-Bible---Borna---Borna-Latin-Bible---Standard-Edition.json",
+  "bible_name": "Handr Taara",
+  "language": "Borni",
+  "language_en": "Borna",
+  "size": 1066439
+ },
+ {
+  "filename": "Holy-Bible---Ahirani---Gospels---Standard-Edition.json",
+  "bible_name": "प्रेम संदेश",
+  "language": "अहिराणी‎",
+  "language_en": "Ahirani",
+  "size": 504900
+ },
+ {
+  "filename": "Holy-Bible---Kuhane---Kuhane-Bible---Standard-Edition.json",
+  "bible_name": "Chikuahane Bible",
+  "language": "Chikuahane",
+  "language_en": "Kuhane",
+  "size": 1044955
+ },
+ {
+  "filename": "Holy-Bible---French---French-Darby-Bible---Standard-Edition.json",
+  "bible_name": "Française John Nelson Darby",
+  "language": "Français",
+  "language_en": "French",
+  "size": 4797583
+ },
+ {
+  "filename": "Holy-Bible---Hungarian---Hungarian-Karoli---Standard-Edition.json",
+  "bible_name": "Revideált Károli Biblia 1908",
+  "language": "Magyar Nyelv",
+  "language_en": "Hungarian",
+  "size": 4565919
+ },
+ {
+  "filename": "Holy-Bible---English---Twentieth-Century-NT---Standard-Edition.json",
+  "bible_name": "Twentieth Century New Testament",
+  "language": "English",
+  "language_en": "English",
+  "size": 1124140
+ },
+ {
+  "filename": "Holy-Bible---Italian---Italian-Riveduta-Bible---Standard-Edition.json",
+  "bible_name": "Riveduta Italiano Bibbia",
+  "language": "Italiano",
+  "language_en": "Italian",
+  "size": 4566852
+ },
+ {
+  "filename": "Holy-Bible---Lodhi---Lodhi-Bible---Standard-Edition.json",
+  "bible_name": "परमेश्वर को सच्चो वचन",
+  "language": "लोधी",
+  "language_en": "Lodhi",
+  "size": 2391905
+ },
+ {
+  "filename": "Holy-Bible---Chinese---Chinese-Easy-to-Read---Standard-Edition.json",
+  "bible_name": "免费的易读圣经",
+  "language": "汉语",
+  "language_en": "Chinese",
+  "size": 953831
+ },
+ {
+  "filename": "Holy-Bible---Portuguese---Almeida-NewOrthography---Standard-Edition.json",
+  "bible_name": "Almeida Bíblia, Ortografia Nova",
+  "language": "Língua Portuguesa",
+  "language_en": "Portuguese",
+  "size": 4306278
+ },
+ {
+  "filename": "Holy-Bible---English---King-James-Version-American---Standard-Edition.json",
+  "bible_name": "King James Version, American",
+  "language": "English",
+  "language_en": "English",
+  "size": 4480384
+ },
+ {
+  "filename": "Holy-Bible---Hebrew---Hebrew-Aleppo-Miqra-Mesorah---Standard-Edition.json",
+  "bible_name": "מקרא על פי המסורה",
+  "language": "עברית",
+  "language_en": "Hebrew",
+  "size": 5190347
+ },
+ {
+  "filename": "Holy-Bible---Sanskrit---Punjabi-Script---Standard-Edition.json",
+  "bible_name": "ਪੰਜਾਬੀ",
+  "language": "ਪੰਜਾਬੀ",
+  "language_en": "Sanskrit",
+  "size": 2484565
+ },
+ {
+  "filename": "Holy-Bible---Greek---Greek-Byzantine---Standard-Edition.json",
+  "bible_name": "H Καινή Διαθήκη",
+  "language": "Ελληνική",
+  "language_en": "Greek, Koine",
+  "size": 1781990
+ },
+ {
+  "filename": "Holy-Bible---Sanskrit---Gujarati-Script---Standard-Edition.json",
+  "bible_name": "ગુજરાતી",
+  "language": "ગુજરાતી",
+  "language_en": "Sanskrit",
+  "size": 2437785
+ },
+ {
+  "filename": "Holy-Bible---Haitian---Haitian-Creole-Smith---Standard-Edition.json",
+  "bible_name": "Bib Sen An",
+  "language": "Kreyòl Ayisyen",
+  "language_en": "Haitian Creole",
+  "size": 4292321
+ },
+ {
+  "filename": "Holy-Bible---Greek---Greek-Nestle---Standard-Edition.json",
+  "bible_name": "H Καινή Διαθήκη",
+  "language": "Ελληνική",
+  "language_en": "Greek, Koine",
+  "size": 1752048
+ },
+ {
+  "filename": "Holy-Bible---Ndebele---Accessible-Bible---Standard-Edition.json",
+  "bible_name": "Ibhayibhili Elifinyelelekayo",
+  "language": "Ndebele",
+  "language_en": "Ndebele",
+  "size": 4363755
+ },
+ {
+  "filename": "Holy-Bible---Slovene---Slovene-Stritarja-NT---Standard-Edition.json",
+  "bible_name": "Slovenščina Novi Testament in Psalmi, Stritarja",
+  "language": "Slovenščina",
+  "language_en": "Slovene",
+  "size": 1152409
+ },
+ {
+  "filename": "Holy-Bible---French---French-Perret-Gentil-Rilliet---Standard-Edition.json",
+  "bible_name": "Bible Perret-Gentil et Rilliet",
+  "language": "Français",
+  "language_en": "French",
+  "size": 4688097
+ },
+ {
+  "filename": "Holy-Bible---English---Webster-Bible-Revised---Standard-Edition.json",
+  "bible_name": "Webster Version, Revised",
+  "language": "English",
+  "language_en": "English",
+  "size": 4500760
+ },
+ {
+  "filename": "Holy-Bible---Ukrainian---Ukrainian-NT---Standard-Edition.json",
+  "bible_name": "Український Новий Заповіт",
+  "language": "Український",
+  "language_en": "Ukrainian",
+  "size": 1430368
+ },
+ {
+  "filename": "Holy-Bible---Hebrew---Hebrew-Westminster-Leningrad-Kimball---Standard-Edition.json",
+  "bible_name": "כתבי הקודש",
+  "language": "עברית",
+  "language_en": "Hebrew",
+  "size": 5181152
+ },
+ {
+  "filename": "Holy-Bible---Sanskrit---Telugu-Script---Standard-Edition.json",
+  "bible_name": "తెలుగు",
+  "language": "తెలుగు",
+  "language_en": "Sanskrit",
+  "size": 2437746
+ },
+ {
+  "filename": "Holy-Bible---Kosraean---Kosraean-Bible---Standard-Edition.json",
+  "bible_name": "Baibel Mutal ke Kas Kusaie",
+  "language": "Kusaiean",
+  "language_en": "Kosraean",
+  "size": 4442939
+ },
+ {
+  "filename": "Holy-Bible---Naga-Tutsa---Tutsa-Naga-Bible---Standard-Edition.json",
+  "bible_name": "Esa Leedap Ena Banlam",
+  "language": "Totcha",
+  "language_en": "Naga, Tutsa",
+  "size": 1266783
+ },
+ {
+  "filename": "Holy-Bible---English---Living-Oracles-NT---Standard-Edition.json",
+  "bible_name": "Living Oracles NT",
+  "language": "English",
+  "language_en": "English",
+  "size": 1029670
+ },
+ {
+  "filename": "Holy-Bible---English---Family-35-NT---Standard-Edition.json",
+  "bible_name": "Family 35 New Testament",
+  "language": "English",
+  "language_en": "English",
+  "size": 1054180
+ },
+ {
+  "filename": "Holy-Bible---Sanskrit---IAST-Script---Standard-Edition.json",
+  "bible_name": "Sanskrit New Testament, IAST",
+  "language": "IAST",
+  "language_en": "Sanskrit",
+  "size": 1235256
+ },
+ {
+  "filename": "Holy-Bible---Hawaiian---Hawaiian-Bible-1868---Standard-Edition.json",
+  "bible_name": "Baibala Hemolele",
+  "language": "Ōlelo Hawai'i",
+  "language_en": "Hawaiian",
+  "size": 4823027
+ },
+ {
+  "filename": "Holy-Bible---Spanish---Reina-Valera-1909---Standard-Edition.json",
+  "bible_name": "Español Santa Biblia",
+  "language": "Español",
+  "language_en": "Spanish",
+  "size": 4328506
+ },
+ {
+  "filename": "Holy-Bible---Estonian---For-All---Standard-Edition.json",
+  "bible_name": "Piibel Kõigile",
+  "language": "Eesti",
+  "language_en": "Estonian",
+  "size": 536330
+ },
+ {
+  "filename": "Holy-Bible---English---World-English-Bible-Updated-British---Standard-Edition.json",
+  "bible_name": "World English Bible Updated, British",
+  "language": "English",
+  "language_en": "English",
+  "size": 4425373
+ },
+ {
+  "filename": "Holy-Bible---Romani-Vlax---Arli-Luke---Standard-Edition.json",
+  "bible_name": "Arli Luka",
+  "language": "Arli Romani",
+  "language_en": "Romani Vlax, Arli",
+  "size": 156774
+ },
+ {
+  "filename": "Holy-Bible---French---French-Crampon-Bible---Standard-Edition.json",
+  "bible_name": "La Bible Augustin Crampon",
+  "language": "Français",
+  "language_en": "French",
+  "size": 4734896
+ },
+ {
+  "filename": "Holy-Bible---Myanmar---Burmese-Judson---Standard-Edition.json",
+  "bible_name": "မြန်မာယုဒသန်သမ္မာကျမ်း",
+  "language": "မြန်မာဘာသာ",
+  "language_en": "Myanmar Burmese",
+  "size": 12429475
+ },
+ {
+  "filename": "Holy-Bible---Sanskrit---Velthuis-Script---Standard-Edition.json",
+  "bible_name": "Sanskrit New Testament, Velthuis",
+  "language": "Velthuis",
+  "language_en": "Sanskrit",
+  "size": 1247565
+ },
+ {
+  "filename": "Holy-Bible---Chichewa---Chichewa-Bible---Standard-Edition.json",
+  "bible_name": "Tsekulani Mawu a Mulungu",
+  "language": "Chichewa",
+  "language_en": "Chichewa",
+  "size": 4600464
+ }
+]
